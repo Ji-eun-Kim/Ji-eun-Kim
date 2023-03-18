@@ -1,13 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=random&text=Welcome%20to%20J2's%20GiHub&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&text=Welcome%20to%20J2's%20GiHub&fontSize=60)
 </div>
 
 ### Hi roooooo 👋
 
-![J2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=tokyonight)
+![J2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=vue)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=compact&theme=vue)
 
 
 <!--
