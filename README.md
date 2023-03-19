@@ -4,6 +4,8 @@
 </div>
 
 ### Hi roooooo guysssss 👋
+### ajik mandeuneun jungipnida^^
+### 맞팔해줘요잉
 
 ![J2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=vue)
 
