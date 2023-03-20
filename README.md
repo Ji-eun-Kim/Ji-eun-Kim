@@ -3,26 +3,74 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=random&text=Welcome%20to%20J2's%20GiHub&fontSize=60)
 </div>
 
-### Hi roooooo guysssss 👋
-### 아직 만드는 중입니다^^
-### 맞팔해줘요잉
+### Hi there👋
 
+I'm Jieun Kim, major in AI Big Data & Management at Kookmin University and minor in Computer Science.
+
+
+***
+
+## 🙍🏻‍♂️Contact
+<p align="center">
+  <a href="https://www.instagram.com/j2_euni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j2_euni/"/></a>&nbsp
+  <a href="mailto:kimje0211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimje0211@gmail.com"/></a>&nbsp
+</p>
+
+<br/>
+
+***
+
+## 🛠Technical Skills 
+#### Languages & Development Tools
+<p align="center"> Techs that I've used at least once </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>&nbsp 
+</p>
+
+***
+
+## 📝Career
+| 활동기간 | 학교 | 전공 | 이력 | 구분 |
+| :------: | :------: | :------: | :------: | :------: |
+| 2021.02 | 금옥여자고등학교(서울) | 인문계열 | 고등학교 | 졸업 |
+| 2021.03 ~ | 국민대학교 | AI빅데이터융합경영학과 | 대학교 | 재학 |
+| 2021.03 ~2021.12 | 국민대학교 | AI빅데이터융합경영학과 | 제 8대 학생회 CODE | 총무부원 |
+| 2021.12~2022.12 | 국민대학교 | AI빅데이터융합경영학과 | 제 1대 학생회 AI:M | 부학생회장 |
+| 2022.12 ~ | 국민대학교 | AI빅데이터융합경영학과 | 빅데이터분석학회 D&A | 운영진 |
+
+
+***
+
+## 📜 자격증
+|취득 연도|자격증|주관|유효기간|
+|-|-|-|-|
+|2023|ADsP|한국데이터산업진흥원|영구|
+
+***
+
+## 👀 Hits
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+***
+
+## 🍀 GitHub Stats
 ![J2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=vue)
 
+***
+
+## ✏️ Most Used Languages
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=compact&theme=vue)
-
-
-<!--
-**Ji-eun-Kim/Ji-eun-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
