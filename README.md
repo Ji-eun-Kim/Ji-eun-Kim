@@ -13,8 +13,10 @@ I'm Jieun Kim, major in AI Big Data & Management at Kookmin University and minor
 ## 🙍🏻‍♂️Contact
 <p align="center">
   <a href="https://www.instagram.com/j2_euni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j2_euni/"/></a>&nbsp
-  <a href="mailto:kimje0211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimje0211@gmail.com"/></a>&nbsp
-</p>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje0211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje1101@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+
+  #03C75A
 
 <br/>
 
