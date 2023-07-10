@@ -8,11 +8,15 @@
 I'm Jieun Kim, major in AI Big Data & Management at Kookmin University and minor in Computer Science.
 
 
+dreaming of becoming a AI Developer/Researcher.
+
+Thank you 🌻
+
+
 ***
 
 ## 🙍🏻‍♂️Contact
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j2_euni/"/></a>&nbsp
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje0211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje1101@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
@@ -48,7 +52,7 @@ I'm Jieun Kim, major in AI Big Data & Management at Kookmin University and minor
   
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: |
-| 2018.03 ~ 2021.02 | 서울금옥여자고등학교 | 인문계열 | 졸업 | 
+| 2018.03 ~ 2021.02 | 서울 금옥여자고등학교 | 인문계열 | 졸업 | 
 | 2021.03 ~ | 국민대학교 | AI빅데이터융합경영학과 | 재학 |
 | 2022.03 ~ | 국민대학교 | 데이터사이언스 연계/융합전공 | 재학 |
 | 2021.03 ~ 2021.12 | 중앙동아리 밴드 아우성 | 동아리원 | - |
