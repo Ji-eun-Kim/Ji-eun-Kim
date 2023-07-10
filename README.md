@@ -44,6 +44,12 @@ I'm Jieun Kim, major in AI Big Data & Management at Kookmin University and minor
 
 ***
 
+## 🛠️ Algorithm Stats
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=milkshake1101)](https://solved.ac/kms990321)<br/>
+
+
+***
+
 ## 👀 Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
