@@ -8,7 +8,7 @@
 I'm Jieun Kim, major in AI Big Data & Management at Kookmin University and minor in Computer Science.
 
 
-dreaming of becoming a AI Developer/Researcher.
+dreaming of becoming an AI Developer/Researcher.
 
 Thank you 🌻
 
