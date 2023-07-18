@@ -46,6 +46,7 @@ Thank you 🌻
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>&nbsp 
 </p>
 
+
 ***
 
 ## 📝 Career
@@ -69,6 +70,28 @@ Thank you 🌻
 | 2023.03 ~ 2023.12 | X:AI 인공지능학회 | 학회원 | 진행중 |
 | 2022.12 ~ 2023.12 | D&A 빅데이터분석학회 | 학회 운영진 | 진행중 |
 | 2023 | 국민대학교 | 학부연구생 | 진행중 |
+
+***  
+
+
+
+
+
+## 💻Projects
+|주관|대회(프로젝트)명|분야|기간|비고|
+|--|-----|---|---|:--:|
+|[(주)피플앤커리어그룹 <br> /경력개발지원단]|Junior CoREP 7기|직무 로드맵 <br> 팀 공모전|-|-|
+|[전공] 빅데이터처리와시각화||데이터 분석|-|-|
+|[전공] 회귀분석|프로젝트|데이터 분석|-|-|
+|[빅데이터 분석 학회] D&A|basic session 시각화|데이터 분석 <br> 및 시각화|-|-|
+|[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|QGIS|2022.05~2022.06|-|
+|[전공] 머신러닝|직무태그|ML|2022.10~2022.11|-|
+|[빅데이터 분석 학회] D&A|신용카드 사용자 연체 예측 AI 경진대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/DnA-ML-competition)|
+|[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악|NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
+|[전공] 딥러닝|실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
+|[인공지능 학회] X:AI|OCR과 SRNet을 활용한 이미지 내 텍스트 번역|NLP&CV|2023.07~2023.08|진행중|
+|[빅데이터 분석 학회] D&A|[가제] 3D 생성 구현|CV|2023.07~2023.11|진행중|
+|[교내] 학부연구생|SMPL|CV|2023.07~ |진행중|
 
 ***
 
