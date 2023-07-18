@@ -15,7 +15,7 @@ Thank you 🌻
 
 ***
 
-## 🙍🏻‍♂️Contact
+## 🙍🏻‍♂️ Contact
 <p align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje0211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje1101@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
@@ -24,7 +24,7 @@ Thank you 🌻
 
 ***
 
-## 🛠Technical Skills 
+## 🛠 Technical Skills 
 #### Languages & Development Tools
 <p align="center"> Techs that I've used at least once </p>
 
@@ -49,7 +49,7 @@ Thank you 🌻
 
 ***
 
-## 📝Career
+## 📝 Career
   
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: |
@@ -73,7 +73,7 @@ Thank you 🌻
 
 ***  
 
-## 📘Study
+## 📘 Study
 | 스터디 내용 | 기간 | 비고 | 링크 |
 | :------: | :---: | :---: | :---: |
 |파이썬 스터디|22.01~22.02|파이썬 기초|-|
@@ -90,7 +90,7 @@ Thank you 🌻
 
 ***
 
-## 📖Projects
+## 📖 Projects
 |주관|대회(프로젝트)명|분야|기간|비고|
 |:--:|:-----:|:---:|:-----------:|:--:|
 |[(주)피플앤커리어그룹/경력개발지원단]|Junior CoREP 7기|직무 로드맵 팀 공모전|-|-|
@@ -108,7 +108,7 @@ Thank you 🌻
 
 ***
 
-## 🏆Competition
+## 🏆 Competition
 |주관|대회(프로젝트)명|분야|순위(기타)|비고|링크|
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |[(주)피플앤커리어그룹/경력개발지원단]|Junior CoREP 7기|직무 로드맵 팀 공모전|(1위) <br> 대상|총장상 수여|-|
@@ -116,8 +116,18 @@ Thank you 🌻
 |[DACON]|유전체 정보 품종 분류 AI 경진대회|ML|-|-|-|
 |[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링 대회|ML|본선 진출|상위 15%(63팀 중 10위)|[Link](https://www.instagram.com/p/CsTu3aNp8Bh/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)|
 
+***
 
-## 💻Algorithm Stats
+## 📜 Certificate
+|취득 연도|자격증|주관|유효기간|
+|-|-|-|-|
+|2023|ADsP|한국데이터산업진흥원|영구|
+|2023|SQLD|한국데이터산업진흥원|영구|
+
+***
+
+
+## 💻 Algorithm Stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})
 
