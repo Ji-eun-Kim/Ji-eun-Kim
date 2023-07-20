@@ -96,8 +96,8 @@ Thank you 🌻
 ## 📒 Projects
 |주관|대회(프로젝트)명|분야|기간|비고|
 |:--:|:-----:|:---:|:-----------:|:--:|
-|[전공] 회귀분석|2019 국민건강영양조사 데이터를 활용한 행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로|회귀분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Regression-analysis)|
 |[전공] 빅데이터처리와시각화|따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안|데이터 분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization)|
+|[전공] 회귀분석|2019 국민건강영양조사 데이터를 활용한 행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로|회귀분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Regression-analysis)|
 |[빅데이터 분석 학회] D&A|서울특별시 자치구별 학구열 분석 및 인사이트 도출|데이터 분석 및 시각화|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/DnA-Visualization-competition)|
 |[전공] 공간빅데이터분석|홍대 및 연남 상권 생존 맛집 분석|QGIS|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis)|
 |[전공] 머신러닝|인사 정보 데이터 기반 연봉 예측 모델링 대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/ML-competition-in-kaggle)|
