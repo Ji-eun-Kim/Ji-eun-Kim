@@ -82,7 +82,7 @@ Thank you 🌻
 |D&A Basic Session|22.03~22.06|데이터 분석|[LINK](https://github.com/Ji-eun-Kim/DnA-session)|
 |머신러닝 스터디|22.07~22.08|머신러닝|[LINK](https://github.com/Ji-eun-Kim/Machine-learning-study)|
 |D&A ML Session|22.09~22.12|머신러닝|[LINK](https://github.com/Ji-eun-Kim/DnA-session)|
-|딥러닝 스터디|22.12~23.02|딥러닝 기초|[LINK[(https://j2rooong.tistory.com/category/Deep%20Learning/2023%20DL%20%EA%B8%B0%EC%B4%88%20%EC%9D%B4%EB%A1%A0%20%EA%B3%B5%EB%B6%80)|
+|딥러닝 스터디|22.12~23.02|딥러닝 기초|[LINK](https://j2rooong.tistory.com/category/Deep%20Learning/2023%20DL%20%EA%B8%B0%EC%B4%88%20%EC%9D%B4%EB%A1%A0%20%EA%B3%B5%EB%B6%80)|
 |알고리즘 문제 풀이|23.03~ing|알고리즘|[LINK](https://github.com/Ji-eun-Kim/Coding_test)|
 |D&A Basic Session|23.03~23.06|파이썬 기초/데이터 분석 <br> (학회운영진-멘토)|-|
 |X:AI Base Session|23.03~23.06|딥러닝|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
