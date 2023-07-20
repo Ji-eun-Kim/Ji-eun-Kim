@@ -79,14 +79,14 @@ Thank you 🌻
 | 스터디 내용 | 기간 | 비고 | 링크 |
 | :------: | :---: | :---: | :---: |
 |파이썬 스터디|22.01~22.02|파이썬 기초|[LINK](https://j2rooong.tistory.com/category/%EC%96%B8%EC%96%B4/Python%20%EA%B8%B0%EC%B4%88)|
-|D&A Basic Session|22.03~22.06|데이터 분석|[LINK](https://github.com/Ji-eun-Kim/DnA-session)|
+|D&A Basic Session|22.03~22.06|데이터 분석|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Basic-Session(%EA%B3%BC%EC%A0%9C%EC%A0%9C%EC%B6%9C))|
 |머신러닝 스터디|22.07~22.08|머신러닝|[LINK](https://github.com/Ji-eun-Kim/Machine-learning-study)|
-|D&A ML Session|22.09~22.12|머신러닝|[LINK](https://github.com/Ji-eun-Kim/DnA-session)|
+|D&A ML Session|22.09~22.12|머신러닝|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/ML-Session(%EA%B3%BC%EC%A0%9C%EC%A0%9C%EC%B6%9C))|
 |딥러닝 스터디|22.12~23.02|딥러닝 기초|[LINK](https://j2rooong.tistory.com/category/Deep%20Learning/2023%20DL%20%EA%B8%B0%EC%B4%88%20%EC%9D%B4%EB%A1%A0%20%EA%B3%B5%EB%B6%80)|
 |알고리즘 문제 풀이|23.03~ing|알고리즘|[LINK](https://github.com/Ji-eun-Kim/Coding_test)|
-|D&A Basic Session|23.03~23.06|파이썬 기초/데이터 분석 <br> (학회운영진-멘토)|-|
+|D&A Basic Session|23.03~23.06|파이썬 기초/데이터 분석 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Basic-Session(mento))|
 |X:AI Base Session|23.03~23.06|딥러닝|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
-|D&A DL Session|23.03~23.06|딥러닝 <br> (학회운영진-멘토)|-|
+|D&A DL Session|23.03~23.06|딥러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Deep-Session(mento))|
 |X:AI Adv Session|23.07~23.08|딥러닝|진행중|
 |D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|예정|
 
