@@ -113,7 +113,7 @@ Thank you 🌻
 |주관|대회(프로젝트)명|분야|순위(기타)|비고|링크|
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|(1위) <br> 대상|총장상 수여|-|
-|[SDC-통계데이터센터]|2022 통계데이터 분석·활용대회|데이터 분석|본선 진출|-|-|
+|[SDC-통계데이터센터]|저출산 문제 원인분석 및 입체적 해결방안 제언|데이터 분석|-|-|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
 |[DACON]|유전체 정보 품종 분류 AI 경진대회|ML|-|-|-|
 |[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링 대회|ML|본선 진출|상위 15%(63팀 중 10위)|[Link](https://www.instagram.com/p/CsTu3aNp8Bh/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)|
 
