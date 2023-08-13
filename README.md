@@ -111,8 +111,8 @@ Thank you 🌻
 |[빅데이터분석학회] D&A|신용카드 사용자 연체 예측 AI 경진대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/DnA-ML-competition)|
 |[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로 |NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
 |[전공] 딥러닝|실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
-|[인공지능 학회] X:AI|[가제] OCR과 SRNet을 활용한 이미지 내 텍스트 번역|NLP/CV|2023.07~2023.08|진행중|
-|[빅데이터분석학회] D&A|[가제] 3D 생성 구현|3D|2023.07~2023.11|진행중|
+|[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|NLP/CV|2023.07~2023.08|진행중|
+|[빅데이터분석학회] D&A|[가제] 체형별 옷입히기 3D화 |3D|2023.07~2023.11|진행중|
 |[교내] 학부연구생|[가제] SMPL 기반 체조 동작 분류|CV|2023.07~ |진행중|
 
 ***
