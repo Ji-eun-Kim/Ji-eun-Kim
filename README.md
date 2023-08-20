@@ -17,7 +17,7 @@ Thank you 🌻
 
 ## 🙍🏻‍♂️ Contact
 <p align="center">
-  <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
+  <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2roong.tistory.com/"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje0211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>  
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje1101@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
 
@@ -75,7 +75,7 @@ Thank you 🌻
 | 2023 | 국민대학교 | 학부연구생 | 진행중 |
 
 ***  
-
+<!--
 ## 📚 Study
 | 스터디 내용 | 기간 | 비고 | 링크 |
 | :------: | :---: | :---: | :---: |
@@ -134,7 +134,7 @@ Thank you 🌻
 |2023|SQLD|한국데이터산업진흥원|영구|
 
 ***
-
+-->
 
 ## 💻 Algorithm Stats
 [![Solved.ac
