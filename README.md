@@ -111,20 +111,22 @@ Thank you 🌻
 |[빅데이터분석학회] D&A|신용카드 사용자 연체 예측 AI 경진대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/DnA-ML-competition)|
 |[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로 |NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
 |[전공] 딥러닝|실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
-|[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|NLP/CV|2023.07~2023.08|진행중|
+|[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|NLP/CV|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |[빅데이터분석학회] D&A|[가제] 체형별 옷입히기 3D화 |3D|2023.07~2023.11|진행중|
-|[교내] 학부연구생|[가제] SMPL 기반 체조 동작 분류|CV|2023.07~ |진행중|
+|[교내] 학부연구생|[가제] SMPL를 활용한 골프 스윙 분석 |CV|2023.07~ |진행중|
 
 ***
 
 ## 🏆 Competition
-|주관|대회(프로젝트)명|분야|순위(기타)|비고|링크|
+|주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|링크|
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|(1위) <br> 대상|총장상 수여|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
+|[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상 수여|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
 |[SDC-통계데이터센터]|저출산 문제 원인분석 및 입체적 해결방안 제언|데이터 분석|예선|-|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
 |[DACON]|유전체 정보 품종 분류 AI 경진대회|ML|-|-|-|
-|[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링 대회|ML|본선 진출|상위 15%(63팀 중 10위)|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
-
+|[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링 대회|ML|상위 15%(63팀 중 10위)|본선 진출|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
+|[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%(224위)|-|-|
+|[LG AI Research/DACON]|온라인 채널 제품 판매량 예측 AI 온라인 해커톤|ML(시계열)|상위 19%(272위)|-|-|
+|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML|-|-|
 ***
 
 ## 📜 Certificate
