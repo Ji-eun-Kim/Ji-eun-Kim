@@ -89,7 +89,7 @@ Thank you 🌻
 |X:AI Base Session|23.03~23.06|딥러닝|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
 |D&A DL Session|23.03~23.06|딥러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Deep-Session(mento))|
 |X:AI Adv Session|23.07~23.08|딥러닝 <br> (Toy project)|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
-|D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|[LINK]|
+|D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/ML-session(mento))|
 |X:AI Poster Session|23.10~24.|딥러닝 <br> (Poster session)|진행중|
 
 
