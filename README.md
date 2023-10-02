@@ -88,8 +88,9 @@ Thank you 🌻
 |D&A Basic Session|23.03~23.06|파이썬 기초/데이터 분석 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Basic-Session(mento))|
 |X:AI Base Session|23.03~23.06|딥러닝|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
 |D&A DL Session|23.03~23.06|딥러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Deep-Session(mento))|
-|X:AI Adv Session|23.07~23.08|딥러닝|진행중|
-|D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|진행중|
+|X:AI Adv Session|23.07~23.08|딥러닝 <br> (Toy project)|[LINK]|
+|D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|[LINK]|
+|X:AI Poster Session|23.10~24.|딥러닝 <br> (Poster session)|진행중|
 
 ***
 
@@ -114,6 +115,9 @@ Thank you 🌻
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|NLP/CV|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |[빅데이터분석학회] D&A|[가제] 체형별 옷입히기 3D화 |CV/3D|2023.07~2023.11|진행중|
 |[교내] 학부연구생|[가제] SMPL를 활용한 골프 스윙 분석 |CV|2023.07~ |진행중|
+|[전공] 비전AI와비지니스|[가제] - |CV|2023.10~ |진행중|
+|[인공지능 학회] X:AI|[가제] Diffusion을 활용한 생성형 AI |CV|2023.10~ |진행중|
+
 
 ***
 
@@ -127,6 +131,7 @@ Thank you 🌻
 |[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%(224위)|-|-|
 |[LG AI Research/DACON]|온라인 채널 제품 판매량 예측 AI 온라인 해커톤|ML(시계열)|상위 19%(272위)|-|-|
 |[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML|-|-|-|
+|현대|ML|-|-|진행중|
 
 ***
 
