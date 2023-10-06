@@ -47,7 +47,100 @@ Thank you 🌻
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=ruby%20on%20rails&logoColor=white"></a>&nbsp 
 
-</p>기|
+</p>
+
+
+***
+
+## 📝 Career
+  
+| 활동기간 | 기관 | 명칭 | 비고 |
+| :------: | :------: | :------: | :------: |
+| 2018.03 ~ 2021.02 | 서울 금옥여자고등학교 | 인문계열 | 졸업 | 
+| 2021.03 ~ | 국민대학교 | AI빅데이터융합경영학과 | 제1전공 |
+| 2022.03 ~ | 국민대학교 | 데이터사이언스전공 | 제2전공 |
+| 2021.03 ~ 2021.12 | 중앙동아리 밴드 아우성 | 동아리원 | - |
+| 2021.03 ~ 2022.12 | 축구 소모임 BAS | 매니저 | - |
+| 2021.03 ~ 2021.08 | 빅데이터경영통계전공 제8대 학생회 CODE | 총무부원 | - |
+| 2021.06 ~ 2021.07 | 빅데이터경영통계전공 | 감사위원장 | - |
+| 2021.12 ~ 2022.12 | AI빅데이터융합경영학과 제1대 학생회 AI:M | 부학생회장 | - |
+| 2022.03 ~ 2022.12 | 밴드 소모임 인지밴드 1기 | 설립자 | - |
+| 2022.03 ~ 2022.12 | 빅데이터분석학회 D&A | 학회원 | 수료 |
+| 2022.12 ~ 2023.02 | AI빅데이터융합경영학과 제1대 비상대책위원회 | 복지부장 | - |
+| 2023.03 ~ 2023.06 | AI빅데이터융합경영학과 교수지원실 | 근로장학생 | - |
+| 2023.07 ~ 2023.09 | LG Aimers 3기 | 수강생 | 수료 |
+| 2023.07 ~ 2023.09 | DACrew 6기 | 데이크루 6기 | 수료 |
+| 2023.03 ~ 2023.12 | 인공지능학회 X:AI | 학회원 | 진행중 |
+| 2022.12 ~ 2023.12 | 빅데이터분석학회 D&A | 학회 운영진 | 진행중 |
+| 2023 | 국민대학교 | 학부연구생 | 진행중 |
+
+***  
+
+## 📚 Study
+| 스터디 내용 | 기간 | 비고 | 링크 |
+| :------: | :---: | :---: | :---: |
+|파이썬 스터디|22.01~22.02|파이썬 기초|[LINK](https://j2rooong.tistory.com/category/%EC%96%B8%EC%96%B4/Python%20%EA%B8%B0%EC%B4%88)|
+|D&A Basic Session|22.03~22.06|데이터 분석|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Basic-Session(%EA%B3%BC%EC%A0%9C%EC%A0%9C%EC%B6%9C))|
+|머신러닝 스터디|22.07~22.08|머신러닝 기초|[LINK](https://github.com/Ji-eun-Kim/Machine-learning-study)|
+|D&A ML Session|22.09~22.12|머신러닝|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/ML-Session(%EA%B3%BC%EC%A0%9C%EC%A0%9C%EC%B6%9C))|
+|딥러닝 스터디|22.12~23.02|딥러닝 기초|[LINK](https://j2rooong.tistory.com/category/Deep%20Learning/2023%20DL%20%EA%B8%B0%EC%B4%88%20%EC%9D%B4%EB%A1%A0%20%EA%B3%B5%EB%B6%80)|
+|알고리즘 문제 풀이|23.03~ing|알고리즘|[LINK](https://github.com/Ji-eun-Kim/Coding_test)|
+|D&A Basic Session|23.03~23.06|파이썬 기초/데이터 분석 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Basic-Session(mento))|
+|X:AI Base Session|23.03~23.06|딥러닝|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
+|D&A DL Session|23.03~23.06|딥러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Deep-Session(mento))|
+|X:AI Adv Session|23.07~23.08|딥러닝 <br> (Toy project)|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
+|D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/ML-session(mento))|
+|X:AI Poster Session|23.10~24.|딥러닝 <br> (Poster session)|진행중|
+
+
+
+***
+
+## 📑 Paper review
+| 분야 | 비고 | 링크 |
+| :------: |  :---: | :---: |
+|CV/NLP/3D/SMPL|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
+
+***
+
+## 📒 Projects
+|주관|대회(프로젝트)명|분야|기간|비고|
+|:--:|:-----:|:---:|:-----------:|:--:|
+|[전공] 빅데이터처리와시각화|따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안|데이터 분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization)|
+|[전공] 회귀분석|2019 국민건강영양조사 데이터를 활용한 행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로|회귀분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Regression-analysis)|
+|[빅데이터 분석 학회] D&A|서울특별시 자치구별 학구열 분석 및 인사이트 도출|데이터 분석 및 시각화|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/DnA-Visualization-competition)|
+|[전공] 공간빅데이터분석|홍대 및 연남 상권 생존 맛집 분석|QGIS|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis)|
+|[전공] 머신러닝|인사 정보 데이터 기반 연봉 예측 모델링 대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/ML-competition-in-kaggle)|
+|[빅데이터분석학회] D&A|신용카드 사용자 연체 예측 AI 경진대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/DnA-ML-competition)|
+|[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로 |NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
+|[전공] 딥러닝|실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
+|[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|NLP/CV|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
+|[빅데이터분석학회] D&A|[가제] 체형별 옷입히기 3D화 |CV/3D|2023.07~2023.11|진행중|
+|[교내] 학부연구생|[가제] SMPL를 활용한 골프 스윙 분석 |CV|2023.07~ |진행중|
+|[전공] 비전AI와비지니스| - |CV|2023.10~ |진행중|
+|[인공지능 학회] X:AI|[가제] Diffusion을 활용한 생성형 AI|CV|2023.10 ~ |진행중|
+
+
+***
+
+## 🏆 Competition
+|주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|링크|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상 수여|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
+|[SDC-통계데이터센터]|저출산 문제 원인분석 및 입체적 해결방안 제언|데이터 분석|-|-|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
+|[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링 대회|ML|상위 15%(63팀 중 10위)|본선 진출|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
+|[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%(224위)|-|-|
+|[LG AI Research/DACON]|온라인 채널 제품 판매량 예측 AI 온라인 해커톤|ML(시계열)|상위 19%(272위)|-|-|
+|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML|-|-|-|
+|[DACON]|신용카드 사용자 연체 예측 모델링|ML|우수상 <br> (2위)|[LINK](https://dacon.io/competitions/official/236116/talkboard/409638?page=1&dtype=recent)|
+|[DACON/HD한국조선해양 AI Center]|HD현대 AI Challenge|ML|-|진행중|
+
+***
+
+## 📜 Certificate
+|취득 연도|자격증|주관|유효기간|
+|-|-|-|-|
+|2023|ADP|한국데이터산업진흥원|실기|
 |2023|ADsP|한국데이터산업진흥원|영구|
 
 ***
