@@ -116,10 +116,10 @@ Thank you 🌻
 |[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로 |NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
 |[전공] 딥러닝|실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|NLP/CV|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
-|[빅데이터분석학회] D&A|[가제] 체형별 옷입히기 3D화 |CV/3D|2023.07~2023.11|진행중|
-|[교내] 학부연구생|[가제] SMPL를 활용한 골프 스윙 분석 |CV|2023.07~ |진행중|
-|[전공] 비전AI와비지니스| - |CV|2023.10~ |진행중|
-|[인공지능 학회] X:AI|[가제] Diffusion을 활용한 생성형 AI|CV|2023.10 ~ |진행중|
+|[빅데이터분석학회] D&A|[가제] 3D Style Transfer 맞춤형 신발 커스텀 |CV/3D|2023.07~2023.11|진행중|
+|[교내] 학부연구생|[가제] SMPL를 활용한 골프 스윙 분석 |CV/3D|2023.07~ |진행중|
+|[전공] 비전AI와비지니스| YOLOv8을 활용한 자동차 운전자 이상행동 탐지 |CV|2023.10~ |진행중|
+|[인공지능 학회] X:AI|[가제] Diffusion을 활용한 사용자 맞춤 이모티콘 생성|CV/Diffusion|2023.10 ~ |진행중|
 
 
 ***
@@ -129,19 +129,16 @@ Thank you 🌻
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상 수여|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
 |[SDC-통계데이터센터]|저출산 문제 원인분석 및 입체적 해결방안 제언|데이터 분석|-|-|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
-|[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링 대회|ML|상위 15%(63팀 중 10위)|본선 진출|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
-|[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%(224위)|-|-|
-|[LG AI Research/DACON]|온라인 채널 제품 판매량 예측 AI 온라인 해커톤|ML(시계열)|상위 19%(272위)|-|-|
-|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML|-|-|-|
-|[DACON]|신용카드 사용자 연체 예측 모델링|ML|우수상 <br> (2위)|[LINK](https://dacon.io/competitions/official/236116/talkboard/409638?page=1&dtype=recent)|
-|[DACON/HD한국조선해양 AI Center]|HD현대 AI Challenge|ML|-|진행중|
-
+|[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링|ML(분류)|상위 15%(63팀 중 10위)|본선 진출|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
+|[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%|-|-|
+|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML(회귀)|-|-|-|
+|[DACON]|신용카드 사용자 연체 예측 모델링|ML(회귀)|우수상 <br> (2위)|[LINK](https://dacon.io/competitions/official/236116/talkboard/409638?page=1&dtype=recent)|
 ***
 
 ## 📜 Certificate
 |취득 연도|자격증|주관|유효기간|
 |-|-|-|-|
-|2023|ADP|한국데이터산업진흥원|실기|
+|2023|ADP|한국데이터산업진흥원|필기|
 |2023|ADsP|한국데이터산업진흥원|영구|
 
 ***
