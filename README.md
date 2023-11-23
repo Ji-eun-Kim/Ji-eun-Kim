@@ -116,10 +116,10 @@ Thank you 🌻
 |[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로 |NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
 |[전공] 딥러닝|실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|NLP/CV|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
-|[빅데이터분석학회] D&A|[가제] 3D Style Transfer 맞춤형 신발 커스텀 |CV/3D|2023.07~2023.11|진행중|
+|[빅데이터분석학회] D&A|3D Shoes Cutomization : 2D style transfer & 3D Reconstruction |CV/3D|2023.07~2023.11|진행중|
 |[교내] 학부연구생|[가제] SMPL를 활용한 골프 스윙 분석 |CV/3D|2023.07~ |진행중|
-|[전공] 비전AI와비지니스| YOLOv8을 활용한 자동차 운전자 이상행동 탐지 |CV|2023.10~ |진행중|
-|[인공지능 학회] X:AI|[가제] Diffusion을 활용한 사용자 맞춤 이모티콘 생성|CV/Diffusion|2023.10 ~ |진행중|
+|[전공] 비전AI와비지니스| YOLOv8을 활용한 자동차 운전자 이상행동 Detection |CV|2023.10~ |진행중|
+|[인공지능 학회] X:AI| Diffusion을 활용한 Self-Training |CV/Diffusion|2023.10 ~ |진행중|
 
 
 ***
