@@ -122,22 +122,22 @@ Thank you 🌻
 |[교내] 학부연구생|[가제] SMPL를 활용한 골프 스윙 분석 |CV/3D|2023.07~ |진행중|
 |[전공] 비전AI와비지니스| YOLOv8을 활용한 자동차 운전자 이상행동 Detection |CV|2023.10~ |진행중|
 |[인공지능 학회] X:AI| Diffusion을 활용한 Self-Training |CV/Generative|2023.10 ~ |진행중|
-|-| - |Multi-Modal|2023.12 ~ |진행중|
+|-| [가제] 사용자 맞춤 |Multi-Modal|2023.12 ~ |진행중|
 
 
 
 ***
 
 ## 🏆 Competition
-|주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|링크|
-|:------:|:---:|:---:|:---:|:---:|:---:|
-|[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상 수여|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
-|[SDC-통계데이터센터]|저출산 문제 원인분석 및 입체적 해결방안 제언|데이터 분석|-|-|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
-|[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링|ML(분류)|상위 15%(63팀 중 10위)|본선 진출|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
-|[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%|-|-|
-|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML(회귀)|-|-|-|
-|[DACON]|신용카드 사용자 연체 예측 모델링|ML(회귀)|우수상 <br> (2위)|[LINK](https://dacon.io/competitions/official/236116/talkboard/409638?page=1&dtype=recent)|
-|[DACON]|대구 교통사고 피해 예측 AI 경진대회|ML(회귀)|진행중|-|
+|주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|기간|링크|
+|:------:|:---:|:---:|:---:|:----:|:---:|:---:|
+|[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상 수여|2021.06~2021.08|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
+|[SDC-통계데이터센터]|저출산 문제 원인분석 및 입체적 해결방안 제언|데이터 분석|-|-|2022.07~2022.08|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
+|[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링|ML(분류)|상위 15%(63팀 중 10위)|본선 진출|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
+|[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%|-|2023.07~2023.08|-|
+|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML(회귀)|수상|-|2023.08~2023.10|-|
+|[DACON]|신용카드 사용자 연체 예측 모델링|ML(회귀)|우수상 <br> (2위)|-|2023.08|[LINK](https://dacon.io/competitions/official/236116/talkboard/409638?page=1&dtype=recent)|
+|[DACON]|대구 교통사고 피해 예측 AI 경진대회|ML(회귀)|진행중|-|2023.11~2023.12|-|
 ***
 
 ## 📜 Certificate
