@@ -72,10 +72,8 @@ Thank you 🌻
 | 2023.03 ~ 2023.12 | AI빅데이터융합경영학과 교수지원실 | 근로장학생 | - |
 | 2023.03 ~ 2023.12 | 인공지능학회 X:AI | 학회원 | 수료 |
 | 2022.12 ~ 2023.12 | 빅데이터분석학회 D&A | 학회 운영진 | - |
-| 2023.08 ~ 2024.06 | 국민대학교 | 학부연구생 | 진행중 |
-| 2023.08 ~ 2000.00 | Kaggle Study Korea | 스터디원 | 진행중 |
-| 2023.12 ~ 2024.11 | 인공지능학회 X:AI | 학회장 | - |
-
+| 2023.08 ~ | 국민대학교 | 학부연구생 | - |
+| 2023.08 ~ 2023.12 | Kaggle Korea Study | 스터디원 | - |
 
 
 ***  
@@ -94,7 +92,7 @@ Thank you 🌻
 |D&A DL Session|23.03~23.06|딥러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Deep-Session(mento))|
 |X:AI Adv Session|23.07~23.08|딥러닝 <br> (Toy project)|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/ML-session(mento))|
-|X:AI Poster Session|23.10~24.|딥러닝 <br> (Poster session)|진행중|
+|X:AI Poster Session|23.10|딥러닝 <br> (Poster session)| - |
 
 
 
@@ -119,12 +117,10 @@ Thank you 🌻
 |[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로 |NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
 |[전공] 딥러닝|실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
-|[빅데이터분석학회] D&A|3D Shoes Cutomization : 2D style transfer & 3D Reconstruction |CV/3D|2023.07~2023.11|진행중|
-|[교내] 학부연구생|[가제] SMPL를 활용한 골프 스윙 분석 |CV/3D|2023.07~ |진행중|
-|[전공] 비전AI와비지니스| YOLOv8을 활용한 자동차 운전자 이상행동 Detection |CV|2023.10~ |진행중|
-|[인공지능 학회] X:AI| Diffusion을 활용한 Self-Training |CV/Generative|2023.10 ~ |진행중|
-|-| [가제] 사용자 맞춤 |Multi-Modal|2023.12 ~ |진행중|
-
+|[빅데이터분석학회] D&A|3D Shoes Cutomization : 2D style transfer & 3D Reconstruction |CV/3D|2023.08~2023.12|-|
+|[교내] 학부연구생|[가제] 3D Human Model을 활용한 골프 스윙 분석 |CV/3D|2023.07~ |-|
+|[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12 |-|
+|[인공지능 학회] X:AI| Diffusion을 활용한 Self-Training |CV/Generative|2023.10|-|
 
 
 ***
@@ -134,7 +130,7 @@ Thank you 🌻
 |:------:|:---:|:---:|:---:|:----:|:---:|:---:|
 |[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상 수여|2021.06~2021.08|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
 |[SDC-통계데이터센터]|저출산 문제 원인분석 및 입체적 해결방안 제언|데이터 분석|-|-|2022.07~2022.08|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
-|[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링|ML(분류)|상위 15%(63팀 중 10위)|본선 진출|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
+|[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링|ML(분류)|상위 15%(63팀 중 10위)|입선|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
 |[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%|-|2023.07~2023.08|-|
 |[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML(회귀)|최우수상 <br> (2위)|예술의전당사장상|2023.08~2023.10|-|
 |[DACON]|신용카드 사용자 연체 예측 모델링|ML(회귀)|우수상 <br> (2위)|-|2023.08|[LINK](https://dacon.io/competitions/official/236116/talkboard/409638?page=1&dtype=recent)|
