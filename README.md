@@ -1,16 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&text=Welcome%20to%20J2's%20GitHub&fontSize=60)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=75A302&height=200&section=header&text=Welcome%20to%20J2's%20GitHub&fontSize=60" />
+
 </div>
 
 ### Hi there👋
 
-I'm Jieun Kim, major in AI Big Data & Management at Kookmin University and minor in Software
+I'm Jieun Kim, dreaming of becoming an AI Developer/Researcher.  
 
-
-dreaming of becoming an AI Developer/Researcher.
-
-Thank you 🌻
+I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Management and minor in Software.
 
 
 ***
