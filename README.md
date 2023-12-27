@@ -6,7 +6,7 @@
 
 ### Hi there 💚
 
-I'm Jieun Kim, dreaming of becoming an AI Developer/Researcher.  
+I'm Jieun Kim, dreaming of becoming an ML Engineer, AI Developer/Researcher.  
 
 I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Management and minor in Software.
 
@@ -23,7 +23,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 
 ***
 
-## 🛠 Technical Skills 
+## 🧩 Technical Skills 
 #### Languages & Development Tools
 <p align="center"> Techs that I've used at least once </p>
 
@@ -50,7 +50,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 
 ***
 
-## 📝 Career
+## 👩‍🏫 Career
   
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: |
@@ -96,7 +96,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 
 ***
 
-## 📑 Paper review
+## ✅ Paper review
 | 분야 | 비고 | 링크 |
 | :------: |  :---: | :---: |
 |Deep Learning|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
@@ -123,7 +123,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 
 ***
 
-## 🏆 Competition
+## 🐉 Competition
 |주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|기간|링크|
 |:------:|:---:|:---:|:---:|:----:|:---:|:---:|
 |[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상 수여|2021.06~2021.08|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
@@ -134,7 +134,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |[DACON]|신용카드 사용자 연체 예측 모델링|ML(회귀)|우수상 <br> (2위)|-|2023.08|[LINK](https://dacon.io/competitions/official/236116/talkboard/409638?page=1&dtype=recent)|
 ***
 
-## 📜 Certificate
+## 🦖 Certificate
 |취득 연도|자격증|주관|유효기간|
 |-|-|-|-|
 |2023|ADP|한국데이터산업진흥원|필기|
@@ -142,7 +142,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 
 ***
 
-## 💻 Algorithm Stats
+## 🌱 Algorithm Stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})
 
@@ -158,6 +158,6 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 
 ***
 
-## ✏️ Most Used Languages
+## 🐸 Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=compact&theme=vue)
