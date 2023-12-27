@@ -15,7 +15,7 @@ Thank you 🌻
 
 ***
 
-## 🙍🏻‍♂️ Contact
+## 🍏 Contact
 <p align="center">
   <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje0211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>  
@@ -105,7 +105,7 @@ Thank you 🌻
 
 ***
 
-## 📒 Projects
+## 📗 Projects
 |주관|대회(프로젝트)명|분야|기간|비고|
 |:--:|:-----:|:---:|:-----------:|:--:|
 |[전공] 빅데이터처리와시각화|따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안|데이터 분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization)|
@@ -117,7 +117,7 @@ Thank you 🌻
 |[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로 |NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
 |[전공] 딥러닝|실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
-|[빅데이터분석학회] D&A|3D Shoes Cutomization : 2D style transfer & 3D Reconstruction |CV/3D|2023.08~2023.12|-|
+|[빅데이터분석학회] D&A|3D Shoes Customization : Style Transfer and 3D Reconstruction|CV/3D|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/2023_Conference)|
 |[교내] 학부연구생|[가제] 3D Human Model을 활용한 골프 스윙 분석 |CV/3D|2023.07~ |-|
 |[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12 |-|
 |[인공지능 학회] X:AI| Diffusion을 활용한 Self-Training |CV/Generative|2023.10|-|
