@@ -130,7 +130,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |[SDC-통계데이터센터]|저출산 문제 원인분석 및 입체적 해결방안 제언|데이터 분석|-|-|2022.07~2022.08|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
 |[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링|ML(분류)|-|입선|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
 |[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%|-|2023.07~2023.08|-|
-|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML(회귀)|최우수상 <br> (2위)|예술의전당사장상|2023.08~2023.10|-|
+|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML(회귀)|최우수상 <br> (2위)|예술의전당사장상|2023.08~2023.10|[LINK](https://github.com/Ji-eun-Kim/2023_BigContest)|
 |[DACON]|신용카드 사용자 연체 예측 모델링|ML(회귀)|우수상 <br> (2위)|-|2023.08|[LINK](https://dacon.io/competitions/official/236116/talkboard/409638?page=1&dtype=recent)|
 ***
 
