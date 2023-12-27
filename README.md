@@ -101,7 +101,7 @@ Thank you 🌻
 ## 📑 Paper review
 | 분야 | 비고 | 링크 |
 | :------: |  :---: | :---: |
-|CV/NLP/3D/SMPL|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
+|Deep Learning|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
 
 ***
 
