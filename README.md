@@ -4,7 +4,7 @@
 
 </div>
 
-### Hi there👋
+### Hi there 💚
 
 I'm Jieun Kim, dreaming of becoming an AI Developer/Researcher.  
 
