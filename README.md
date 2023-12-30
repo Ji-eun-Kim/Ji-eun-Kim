@@ -113,12 +113,12 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |[전공] 머신러닝|인사 정보 데이터 기반 연봉 예측 모델링 대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/ML-competition-in-kaggle)|
 |[빅데이터분석학회] D&A|신용카드 사용자 연체 예측 AI 경진대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/DnA-ML-competition)|
 |[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로 |NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
-|[전공] 딥러닝|실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
+|[전공] 딥러닝|Real-Time Object Detection을 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |[빅데이터분석학회] D&A|3D Shoes Customization : Style Transfer and 3D Reconstruction|CV/3D|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/2023_Conference)|
-|[교내] 학부연구생|[가제] 3D Human Model을 활용한 골프 스윙 분석 |CV/3D|2023.07~ |-|
+|[교내] 학부연구생|[가제] 3D Human Model을 활용한 골프 스윙 유사도 측정|CV/3D|2023.07~ |-|
 |[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12 |-|
-|[인공지능 학회] X:AI| Diffusion을 활용한 Self-Training |CV/Generative|2023.10|-|
+|[인공지능 학회] X:AI| Self-Training with Generative AI |CV/Diffusion|2023.10 |-|
 
 
 ***
@@ -137,7 +137,8 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 ## 🦖 Certificate
 |취득 연도|자격증|주관|유효기간|
 |-|-|-|-|
-|2023|ADP|한국데이터산업진흥원|필기|
+|2024|ADP|한국데이터산업진흥원|필기|  
+|2024|빅데이터분석기사|한국데이터산업진흥원|필기|
 |2023|ADsP|한국데이터산업진흥원|영구|
 
 ***
