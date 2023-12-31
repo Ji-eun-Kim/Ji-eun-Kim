@@ -135,11 +135,11 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 ***
 
 ## 🦖 Certificate
-|취득 연도|자격증|주관|유효기간|
-|-|-|-|-|
-|2024|ADP|한국데이터산업진흥원|필기|  
-|2024|빅데이터분석기사|한국데이터산업진흥원|필기|
-|2023|ADsP|한국데이터산업진흥원|영구|
+|취득 연도|자격증|주관|유효기간|증빙자료|
+|-|-|-|-|-|
+|2024|ADP|한국데이터산업진흥원|필기|-|  
+|2024|빅데이터분석기사|한국데이터산업진흥원|필기|-|
+|2023|ADsP|한국데이터산업진흥원|영구|[LINK](https://github.com/Ji-eun-Kim/certificate/tree/main/ADsP)|
 
 ***
 
