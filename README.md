@@ -59,10 +59,10 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 | 2022.03 ~ | 국민대학교 | 소프트웨어융합전공 | 부전공 |
 | 2021.03 ~ 2021.12 | 중앙동아리 밴드 아우성 | 동아리원 | - |
 | 2021.03 ~ 2022.12 | 축구 소모임 BAS | 매니저 | - |
-| 2021.03 ~ 2021.08 | 빅데이터경영통계전공 제8대 학생회 CODE | [총무부원](https://www.instagram.com/p/CN4LV31B8Py/) | - |
+| 2021.03 ~ 2021.08 | 빅데이터경영통계전공 제8대 학생회 CODE | 총무부원 | [LINK](https://www.instagram.com/p/CN4LV31B8Py/) |
 | 2021.06 ~ 2021.07 | 빅데이터경영통계전공 | 감사위원장 | - |
-| 2021.12 ~ 2022.12 | AI빅데이터융합경영학과 제1대 학생회 AI:M | [부학생회장](https://www.instagram.com/p/CbY-atCpzX2/) | - |
-| 2022.03 ~ 2022.12 | 밴드 소모임 인지밴드 1기 | [설립자](https://www.instagram.com/p/Cg1eRK4Pld2/?img_index=1) | - |
+| 2021.12 ~ 2022.12 | AI빅데이터융합경영학과 제1대 학생회 AI:M | 부학생회장 | [LINK](https://www.instagram.com/p/CbY-atCpzX2/) |
+| 2022.03 ~ 2022.12 | 밴드 소모임 인지밴드 1기 | [설립자] | [LINK](https://www.instagram.com/p/Cg1eRK4Pld2/?img_index=1)  |
 | 2022.03 ~ 2022.12 | 빅데이터분석학회 D&A | 학회원 | 수료 |
 | 2022.12 ~ 2023.02 | AI빅데이터융합경영학과 제1대 비상대책위원회 | 복지부장 | - |
 | 2023.07 ~ 2023.09 | LG Aimers 3기 | 수강생 | [수료](https://j2rooong.tistory.com/entry/LG-Aimers-3%EA%B8%B0-%EC%88%98%EB%A3%8C) |
