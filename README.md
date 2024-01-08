@@ -72,6 +72,9 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 | 2022.12 ~ 2023.12 | 빅데이터분석학회 D&A | 학회 운영진 | - |
 | 2023.07 ~ | 국민대학교 | 학부연구생 | - |
 | 2023.08 ~ 2023.12 | Kaggle Korea Study | 스터디원 | - |
+| 2023.01 ~ | 인공지능 연합동아리 투빅스 21기 | 스터디원 | - |
+| 2023.01 ~ | 인공지능학회 X:AI | 학회장 | - |
+
 
 
 ***  
