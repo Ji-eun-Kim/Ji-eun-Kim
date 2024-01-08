@@ -93,7 +93,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |D&A DL Session|23.03~23.06|딥러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Deep-Session(mento))|
 |X:AI Adv Session|23.07~23.08|딥러닝 <br> (Toy project)|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/ML-session(mento))|
-|X:AI Poster Session|23.10|딥러닝 <br> (Poster session)| - |
+|X:AI Poster Session|23.10~|딥러닝 <br> (Poster session)| - |
 
 
 
@@ -120,8 +120,8 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |[빅데이터분석학회] D&A|3D Shoes Customization : Style Transfer and 3D Reconstruction|CV/3D|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/2023_Conference)|
 |[교내] 학부연구생|[가제] 3D Human Model을 활용한 골프 스윙 유사도 측정|CV/3D|2023.07~ |-|
-|[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12 |[LINK](https://github.com/Ji-eun-Kim/VisionAI_project)|
-|[인공지능 학회] X:AI| Self-Training with Generative AI |CV/Diffusion|2023.10 |-|
+|[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/VisionAI_project)|
+|[인공지능 학회] X:AI| Self-Training with Generative AI |CV/Diffusion|2023.10~ |-|
 
 
 ***
