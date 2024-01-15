@@ -6,7 +6,7 @@
 
 ### Hi there 💚
 
-I'm Jieun Kim, dreaming of becoming an **ML research engineer, AI engineer**.  
+I'm Jieun Kim, dreaming of becoming an ML research engineer, AI engineer.  
 
 I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Management and minor in S.W
 
