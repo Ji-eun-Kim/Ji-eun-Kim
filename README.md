@@ -59,21 +59,21 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 | 2022.03 ~ | 국민대학교 | 소프트웨어융합전공 | 부전공 |
 | 2021.03 ~ 2021.12 | 중앙동아리 밴드 아우성 | 동아리원 | - |
 | 2021.03 ~ 2022.12 | 축구 소모임 BAS | 매니저 | - |
-| 2021.03 ~ 2021.08 | 빅데이터경영통계전공 제8대 학생회 CODE | 총무부원 | [LINK](https://www.instagram.com/p/CN4LV31B8Py/) |
+| 2021.03 ~ 2021.08 | 빅데이터경영통계전공 제8대 학생회 CODE | 총무부원 | - |
 | 2021.06 ~ 2021.07 | 빅데이터경영통계전공 | 감사위원장 | - |
-| 2021.12 ~ 2022.12 | AI빅데이터융합경영학과 제1대 학생회 AI:M | 부학생회장 | [LINK](https://www.instagram.com/p/CbY-atCpzX2/) |
-| 2022.03 ~ 2022.12 | 밴드 소모임 인지밴드 1기 | 설립자 | [LINK](https://www.instagram.com/p/Cg1eRK4Pld2/?img_index=1)  |
+| 2021.12 ~ 2022.12 | AI빅데이터융합경영학과 제1대 학생회 AI:M | 부학생회장 | - |
+| 2022.03 ~ 2022.12 | 밴드 소모임 인지밴드 1기 | 설립자 | - |
 | 2022.03 ~ 2022.12 | 빅데이터분석학회 D&A | 학회원 | 수료 |
 | 2022.12 ~ 2023.02 | AI빅데이터융합경영학과 제1대 비상대책위원회 | 복지부장 | - |
-| 2023.07 ~ 2023.09 | LG Aimers 3기 | 수강생 | [수료](https://j2rooong.tistory.com/entry/LG-Aimers-3%EA%B8%B0-%EC%88%98%EB%A3%8C) |
-| 2023.07 ~ 2023.09 | DACrew 6기 | 데이크루 6기 | [수료](https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md) |
+| 2023.07 ~ 2023.09 | LG Aimers 3기 | 수강생 | - |
+| 2023.07 ~ 2023.09 | DACrew 6기 | 데이크루 6기 | - |
 | 2023.03 ~ 2023.12 | AI빅데이터융합경영학과 교수지원실 | 근로장학생 | - |
 | 2023.03 ~ 2023.12 | 인공지능학회 X:AI | 학회원 | 수료 |
 | 2022.12 ~ 2023.12 | 빅데이터분석학회 D&A | 학회 운영진 | - |
 | 2023.07 ~ | 국민대학교 | 학부연구생 | - |
 | 2023.08 ~ 2023.12 | Kaggle Korea Study | 스터디원 | - |
 | 2023.12 ~ | 인공지능학회 X:AI | 학회장 | - |
-| 2023.01 ~ | 인공지능 연합동아리 투빅스 21기 | 스터디원 | - |
+| 2024.01 ~ | 인공지능 연합동아리 투빅스 | 21기 | - |
 
 
 
@@ -121,11 +121,10 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로 |NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
 |[전공] 딥러닝|Real-Time Object Detection을 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
-|[빅데이터분석학회] D&A|3D Shoes Customization : Style Transfer and 3D Reconstruction|CV/3D|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/2023_Conference)|
+|[빅데이터분석학회] D&A|3D Shoes Customization : Style Transfer and 3D Reconstruction|CV/3D|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/3D_Customized_Shoes)|
 |[교내] 학부연구생|[가제] 3D Human Model을 활용한 골프 스윙 유사도 측정|CV/3D|2023.07~ |-|
 |[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/VisionAI_project)|
 |[인공지능 학회] X:AI| Self-Training with Generative AI |CV/Diffusion|2023.10~ |-|
-
 
 ***
 
