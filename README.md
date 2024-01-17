@@ -65,12 +65,12 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 | 2022.03 ~ 2022.12 | 밴드 소모임 인지밴드 1기 | 설립자 | - |
 | 2022.03 ~ 2022.12 | 빅데이터분석학회 D&A | 학회원 | 수료 |
 | 2022.12 ~ 2023.02 | AI빅데이터융합경영학과 제1대 비상대책위원회 | 복지부장 | - |
-| 2023.07 ~ 2023.09 | LG Aimers 3기 | 수강생 | - |
-| 2023.07 ~ 2023.09 | DACrew 6기 | 데이크루 6기 | - |
+| 2023.07 ~ 2023.09 | LG Aimers 3기 | 수강생 | 수료 |
+| 2023.07 ~ 2023.09 | DACrew 6기 | 데이크루 6기 | 수료 |
 | 2023.03 ~ 2023.12 | AI빅데이터융합경영학과 교수지원실 | 근로장학생 | - |
 | 2023.03 ~ 2023.12 | 인공지능학회 X:AI | 학회원 | 수료 |
 | 2022.12 ~ 2023.12 | 빅데이터분석학회 D&A | 학회 운영진 | - |
-| 2023.07 ~ | 국민대학교 | 학부연구생 | - |
+| 2023.07 ~ | 국민대학교 | 학부연구생 | 진행중 |
 | 2023.08 ~ 2023.12 | Kaggle Korea Study | 스터디원 | - |
 | 2023.12 ~ | 인공지능학회 X:AI | 학회장 | - |
 | 2024.01 ~ | 인공지능 연합동아리 투빅스 | 21기 | - |
@@ -94,7 +94,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |X:AI Adv Session|23.07~23.08|딥러닝 <br> (Toy project)|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/ML-session(mento))|
 |SOTA Paper Review|24.01~|딥러닝| - |
-|Deep Learning Architecture 구현|24.01~|딥러닝 코드 구현| [LINK](https://github.com/Ji-eun-Kim/code_implement) |
+|Deep Learning Model Architecture 구현|24.01~|Pytorch 코드 구현| [LINK](https://github.com/Ji-eun-Kim/code_implement) |
 
 
 
