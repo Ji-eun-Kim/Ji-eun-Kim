@@ -94,7 +94,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |X:AI Adv Session|23.07~23.08|딥러닝 <br> (Toy project)|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/ML-session(mento))|
 |SOTA Paper Review|24.01~|딥러닝| - |
-|DL Model Architecture 구현|24.01~|Pytorch Deep Learning 코드 구현| [LINK](https://github.com/Ji-eun-Kim/code_implement) |
+|DL Model Architecture 구현|24.01~|Pytorch Deep Learning 코드 구현| [LINK](https://github.com/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study) |
 
 
 
