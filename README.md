@@ -73,13 +73,14 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 | 2021.03 ~ 2021.12 | 중앙동아리 밴드 아우성 | 동아리원 | - |
 | 2021.03 ~ 2022.12 | 축구 소모임 BAS | 매니저 | - |
 | 2021.03 ~ 2021.08 | 빅데이터경영통계전공 제8대 학생회 CODE | 총무부원 | - |
+| 2021.06 ~ 2021.08 | 예비 직무 전문가 양성 과정 Junior CoREP | 7기 선발 | 수료 |
 | 2021.06 ~ 2021.07 | 빅데이터경영통계전공 | 감사위원장 | - |
 | 2021.12 ~ 2022.12 | AI빅데이터융합경영학과 제1대 학생회 AI:M | 부학생회장 | - |
 | 2022.03 ~ 2022.12 | 밴드 소모임 인지밴드 1기 | 설립자 | - |
 | 2022.03 ~ 2022.12 | 빅데이터분석학회 D&A | 학회원 | 수료 |
 | 2022.12 ~ 2023.02 | AI빅데이터융합경영학과 제1대 비상대책위원회 | 복지부장 | - |
 | 2023.07 ~ 2023.09 | LG Aimers 3기 | 수강생 | 수료 |
-| 2023.07 ~ 2023.09 | DACrew 6기 | 데이크루 6기 | 수료 |
+| 2023.07 ~ 2023.09 | DACON DACrew 6기 | 데이크루 6기 | 수료 |
 | 2023.03 ~ 2023.12 | AI빅데이터융합경영학과 교수지원실 | 근로장학생 | - |
 | 2023.03 ~ 2023.12 | 인공지능학회 X:AI | 학회원 | 수료 |
 | 2022.12 ~ 2023.12 | 빅데이터분석학회 D&A | 학회 운영진 | - |
@@ -101,11 +102,10 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 |딥러닝 스터디|22.12~23.02|딥러닝 기초|[LINK](https://j2rooong.tistory.com/category/Deep%20Learning/2023%20DL%20%EA%B8%B0%EC%B4%88%20%EC%9D%B4%EB%A1%A0%20%EA%B3%B5%EB%B6%80)|
 |알고리즘 문제 풀이|23.03~ing|알고리즘|[LINK](https://github.com/Ji-eun-Kim/Coding_test)|
 |D&A Basic Session|23.03~23.06|파이썬 기초/데이터 분석 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Basic-Session(mento))|
-|X:AI Base Session|23.03~23.06|딥러닝|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
+|X:AI Base Session|23.03~23.06|딥러닝 <br> (논문 리뷰)|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
 |D&A DL Session|23.03~23.06|딥러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Deep-Session(mento))|
 |X:AI Adv Session|23.07~23.08|딥러닝 <br> (Toy project)|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/ML-session(mento))|
-|SOTA Paper Review|24.01~|딥러닝| - |
 |DL Model Architecture 구현|24.01~|Pytorch Deep Learning 코드 구현| [LINK](https://github.com/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study) |
 
 &nbsp;
@@ -124,8 +124,8 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 |[전공] 딥러닝|Real-Time Object Detection을 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |[빅데이터분석학회] D&A|3D Shoes Customization : Style Transfer and 3D Reconstruction|CV/3D|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/3D_Customized_Shoes)|
-|[교내] 학부연구생|[가제] 3D Human Model을 활용한 골프 스윙 유사도 측정|CV/3D|2023.07~ |-|
 |[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/VisionAI_project)|
+|[교내] 학부연구생|[가제] 3D Human Model을 활용한 골프 스윙 유사도 측정|CV/3D|2023.07~ |-|
 
 &nbsp;
 
@@ -136,8 +136,7 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 |[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상|2021.06~2021.08|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
 |[SDC-통계데이터센터]|저출산 문제 원인분석 및 입체적 해결방안 제언|데이터 분석|-|-|2022.07~2022.08|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
 |[(사)한국빅데이터학회/후원: CJ제일제당]|CJ 더마켓 고객 예측 알고리즘 모델링|ML(분류)|입선|-|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
-|[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%|-|2023.07~2023.08|-|
-|[DACON]|데이크루6기|ML(회귀)|우수상 <br> (2위)|-|2023.08|[LINK](https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md)|  
+|[DACON]|데이크루 6기|ML(회귀)|우수상 <br> (2위)|-|2023.08|[LINK](https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md)|  
 |[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML(회귀)|최우수상 <br> (2위)|예술의전당사장상|2023.08~2023.10|[LINK](https://github.com/Ji-eun-Kim/2023_BigContest)|
 
 &nbsp;
