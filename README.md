@@ -1,7 +1,13 @@
+<!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=75A302&height=200&section=header&text=Welcome%20to%20J2's%20GitHub&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&height=150&section=header&text=&fontSize=0" width='100%' />
+<br>
+    
+<!-- Title Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=031275&size=40&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Welcome%20to%20J2's%20GitHub;Research+on+Deep+Learning" alt="Typing SVG" /></a>
 
+<br>
 </div>
 
 ### Hi there 💚
@@ -157,6 +163,8 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 
 ***
 
+
+
 ## 🍀 GitHub Stats
 ![J2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=vue)
 
@@ -165,3 +173,8 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 ## 🐸 Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=compact&theme=vue)
+
+
+<!-- Footer banner -->
+<img src = 'https://capsule-render.vercel.app/api?type=waving&height=150&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=50' width='100%'/>
+</div>
