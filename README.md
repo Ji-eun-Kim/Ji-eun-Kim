@@ -18,15 +18,14 @@ I'm Jieun Kim, dreaming of becoming an **ML research engineer, AI engineer**.
 I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Management and minor in S.W
 
 
+
 &nbsp;
 &nbsp;
 &nbsp;
 
 
-&nbsp;
 
-
-##  Contact
+## ☎️ Contact  ☎️
 <p align="center">
   <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje0211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>  
@@ -35,16 +34,13 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 <br/>
 
 &nbsp;
-
 &nbsp;
 
 
-
-##  Technical Skills 
+##  ⚔️ Technical Skills ⚔️ 
 #### Languages & Development Tools
 <p align="center">
     Techs that I've used at least once </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -66,13 +62,10 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 
 </p>
 
-
-&nbsp;
-
 &nbsp;
 
 
-##  Career  
+## 💡 Career 💡
 
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: |
@@ -100,7 +93,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 &nbsp;
 
 
-## Study
+## 📕 Study 📕 
 | 스터디 내용 | 기간 | 비고 | 링크 |
 | :------: | :---: | :---: | :---: |
 |파이썬 스터디|22.01~22.02|파이썬 기초|[LINK](https://j2rooong.tistory.com/category/%EC%96%B8%EC%96%B4/Python%20%EA%B8%B0%EC%B4%88)|
@@ -117,10 +110,10 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |SOTA Paper Review|24.01~|딥러닝| - |
 |DL Model Architecture 구현|24.01~|Pytorch Deep Learning 코드 구현| [LINK](https://github.com/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study) |
 
-
+&nbsp;
 &nbsp;
 
-## Projects
+## 👩‍🏫 Projects 👩‍🏫
 |주관|대회(프로젝트)명|분야|기간|비고|
 |:--:|:-----:|:---:|:-----------:|:--:|
 |[전공] 빅데이터처리와시각화|따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안|데이터 분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization)|
@@ -139,7 +132,7 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 &nbsp;
 
 
-## Competition
+## 🥇 Competition 🥇 
 |주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|기간|링크|
 |:------:|:---:|:---:|:---:|:----:|:---:|:---:|
 |[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상|2021.06~2021.08|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
@@ -150,22 +143,29 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML(회귀)|최우수상 <br> (2위)|예술의전당사장상|2023.08~2023.10|[LINK](https://github.com/Ji-eun-Kim/2023_BigContest)|
 
 &nbsp;
+&nbsp;
 
 
-## Paper review
+
+## 📚 Paper review 📚
 | 분야 | 비고 | 링크 |
 | :------: |  :---: | :---: |
 |Deep Learning|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
 
-## Certificate
+&nbsp;
+&nbsp;
+
+
+## 🪪 Certificate 🪪 
 |취득 연도|자격증|주관|유효기간|
 |-|-|-|-|
 |2023|ADsP|한국데이터산업진흥원|영구|
 
 &nbsp;
+&nbsp;
 
 
-## Algorithm Stats
+## 👩‍💻 Algorithm Stats 👩‍💻
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})
 
