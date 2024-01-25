@@ -9,17 +9,24 @@
 
 <br>
 </div>
+<div align="center">
 
-### Hi there 💚
+### Hi there 🖐️ 
 
-I'm Jieun Kim, dreaming of becoming an ML research engineer, AI engineer.  
+I'm Jieun Kim, dreaming of becoming an **ML research engineer, AI engineer**.  
 
 I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Management and minor in S.W
 
 
-***
+&nbsp;
+&nbsp;
+&nbsp;
 
-## 🍏 Contact
+
+&nbsp;
+
+
+##  Contact
 <p align="center">
   <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje0211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>  
@@ -27,11 +34,17 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 
 <br/>
 
-***
+&nbsp;
 
-## 🧩 Technical Skills 
+&nbsp;
+
+
+
+##  Technical Skills 
 #### Languages & Development Tools
-<p align="center"> Techs that I've used at least once </p>
+<p align="center">
+    Techs that I've used at least once </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -54,10 +67,13 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 </p>
 
 
-***
+&nbsp;
 
-## 👩‍🏫 Career
-  
+&nbsp;
+
+
+##  Career  
+
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: |
 | 2018.03 ~ 2021.02 | 서울 금옥여자고등학교 | 인문계열 | 졸업 | 
@@ -81,11 +97,10 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 | 2023.12 ~ | 인공지능학회 X:AI | 학회장 | - |
 | 2024.01 ~ | 인공지능 연합동아리 투빅스 | 21기 | - |
 
+&nbsp;
 
 
-***  
-
-## 📚 Study
+## Study
 | 스터디 내용 | 기간 | 비고 | 링크 |
 | :------: | :---: | :---: | :---: |
 |파이썬 스터디|22.01~22.02|파이썬 기초|[LINK](https://j2rooong.tistory.com/category/%EC%96%B8%EC%96%B4/Python%20%EA%B8%B0%EC%B4%88)|
@@ -103,18 +118,9 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |DL Model Architecture 구현|24.01~|Pytorch Deep Learning 코드 구현| [LINK](https://github.com/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study) |
 
 
+&nbsp;
 
-
-***
-
-## ✅ Paper review
-| 분야 | 비고 | 링크 |
-| :------: |  :---: | :---: |
-|Deep Learning|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
-
-***
-
-## 📗 Projects
+## Projects
 |주관|대회(프로젝트)명|분야|기간|비고|
 |:--:|:-----:|:---:|:-----------:|:--:|
 |[전공] 빅데이터처리와시각화|따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안|데이터 분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization)|
@@ -130,9 +136,10 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |[교내] 학부연구생|[가제] 3D Human Model을 활용한 골프 스윙 유사도 측정|CV/3D|2023.07~ |-|
 |[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/VisionAI_project)|
 
-***
+&nbsp;
 
-## 🐉 Competition
+
+## Competition
 |주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|기간|링크|
 |:------:|:---:|:---:|:---:|:----:|:---:|:---:|
 |[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상|2021.06~2021.08|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
@@ -141,39 +148,44 @@ I am going to graduate from Kookmin Univ. in 2025 major in AI Big Data & Managem
 |[DACON]|2023 전력사용량 예측 AI 경진대회|ML(시계열)|상위 11%|-|2023.07~2023.08|-|
 |[DACON]|데이크루6기|ML(회귀)|우수상 <br> (2위)|-|2023.08|[LINK](https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md)|  
 |[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML(회귀)|최우수상 <br> (2위)|예술의전당사장상|2023.08~2023.10|[LINK](https://github.com/Ji-eun-Kim/2023_BigContest)|
-***
 
-## 🦖 Certificate
+&nbsp;
+
+
+## Paper review
+| 분야 | 비고 | 링크 |
+| :------: |  :---: | :---: |
+|Deep Learning|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
+
+## Certificate
 |취득 연도|자격증|주관|유효기간|
 |-|-|-|-|
-|2024|ADP|한국데이터산업진흥원|필기|
-|2024|빅데이터분석기사|한국데이터산업진흥원|필기|
 |2023|ADsP|한국데이터산업진흥원|영구|
 
-***
+&nbsp;
 
-## 🌱 Algorithm Stats
+
+## Algorithm Stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})
 
-***
-
-## 👀 Hits
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-***
+&nbsp;
 
 
+</div>
 
-## 🍀 GitHub Stats
-![J2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=vue)
+</details>
+<br><br>
+<div align="center">
+<!-- My profile -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=donut&show_icons=true&theme=transparent&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&themematerial-palenight&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
-***
-
-## 🐸 Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=compact&theme=vue)
-
+<br><br>
+<!-- Hit counter -->
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<br><br><br><br>
 
 <!-- Footer banner -->
 <img src = 'https://capsule-render.vercel.app/api?type=waving&height=150&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=50' width='100%'/>
