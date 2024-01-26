@@ -24,9 +24,8 @@ jobs:
         with:
           github_user_name: Ji-eun-Kim
           # output branch에 gif, svg를 각각 생성
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
+          gif_out_path: dist/github/-grid-snake.gif
+          svg_out_path: dist/github/grid-snake.svg
       - run: git status
 
       # 변경사항 push
