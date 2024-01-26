@@ -185,7 +185,7 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 <br><br><br><br>
 
 ![snake gif](https://github.com/Ji-eun-Kim/Ji-eun-Kim/blob/output/github-contribution-grid-snake.svg)
-<br><br><br><br>
+
 
 
 
