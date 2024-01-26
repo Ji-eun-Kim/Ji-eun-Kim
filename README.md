@@ -175,9 +175,9 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 <br><br>
 <div align="center">
 <!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=donut&show_icons=true&theme=transparent&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&themematerial-palenight&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=donut&show_icons=true&theme=transparent" width=38% />    
+<img src = 'https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=transparent' width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=0019F4&title_color=0019F4&line=0019F4&point=0019F4&area_color=0019F4" width=94%/>
 
 <br><br>
 <!-- Hit counter -->
