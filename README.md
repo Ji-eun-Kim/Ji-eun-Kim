@@ -156,9 +156,6 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 |-|-|-|-|
 |2023|ADsP|한국데이터산업진흥원|영구|
 
-</div>
-
-
 &nbsp;
 &nbsp;
 
