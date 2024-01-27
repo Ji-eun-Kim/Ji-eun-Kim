@@ -77,16 +77,16 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 | 2021.06 ~ 2021.07 | 빅데이터경영통계전공 감사위원회 | 감사위원장 | - |
 | 2021.12 ~ 2022.12 | AI빅데이터융합경영학과 학생회 제1대 AI:M |  부학생회장 | - |
 | 2022.03 ~ 2022.12 | 밴드 소모임 인지밴드 1기 | 설립자 | - |
-| 2022.03 ~ 2022.12 | 제9대 빅데이터분석학회 D&A | 학회원 | 수료 |
+| 2022.03 ~ 2022.12 |  빅데이터분석학회 제9대 D&A | 학회원 | 수료 |
 | 2022.12 ~ 2023.02 | AI빅데이터융합경영학과 제1대 비상대책위원회 | 복지부장 | - |
 | 2023.07 ~ 2023.09 | LG Aimers 3기 | 수강생 | 수료 |
 | 2023.07 ~ 2023.09 | DACON DACrew 6기 | 데이크루 6기 | 수료 |
 | 2023.03 ~ 2023.12 | AI빅데이터융합경영학과 교수지원실 | 근로장학생 | - |
-| 2023.03 ~ 2023.12 | 제4대 인공지능학회 X:AI | 학회원 | 수료 |
-| 2022.12 ~ 2023.12 | 제10대 빅데이터분석학회 D&A | 학회 운영진 | - |
+| 2023.03 ~ 2023.12 |  인공지능학회 제4대 X:AI | 학회원 | 수료 |
+| 2022.12 ~ 2023.12 |  빅데이터분석학회 제10대 D&A | 학회 운영진 | - |
 | 2023.07 ~ | 국민대학교 | 학부연구생 | 진행중 |
 | 2023.08 ~ 2024.01 | 인공지능 및 빅데이터 분석 커뮤니티 Kaggle Korea Study | 2023 하반기 선발 | - |
-| 2023.12 ~ | 제5대 인공지능학회 X:AI | 학회장 | - |
+| 2023.12 ~ |  인공지능학회 제5대 X:AI | 학회장 | - |
 | 2024.01 ~ | 인공지능 및 빅데이터 대표 연합 동아리 TOBIG's | 21기 선발 | - |
 
 &nbsp;
@@ -125,7 +125,7 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
 |[빅데이터분석학회] D&A|3D Shoes Customization : Style Transfer and 3D Reconstruction|CV/3D|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/3D_Customized_Shoes)|
 |[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/VisionAI_project)|
-|[교내] 학부연구생|[가제] 3D Human Model을 활용한 골프 스윙 유사도 측정|CV/3D|2023.07~ |-|
+|[교내] 학부연구생|[가제] 3D Human Model과 Tracking을 활용한 골프 자세 및 스윙 유사도 측정|CV/3D|2023.07~ |-|
 
 &nbsp;
 
