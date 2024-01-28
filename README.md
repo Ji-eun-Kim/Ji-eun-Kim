@@ -26,8 +26,7 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 ## ☎️ Contact ☎️
 <p align="center">
   <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje0211@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>  
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/kimje1101@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/j2gurri@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>  
 
 <br/>
 
