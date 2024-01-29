@@ -11,7 +11,7 @@
 </div>
 <div align="center">
 
-### Hi there 🖐️ 
+#### Hi there 🖐️ 
 
 I'm Jieun Kim, dreaming of becoming an **ML Research Engineer, AI Engineer**.     
 I am going to graduate from Kookmin University in 2025 with a major in AI Big Data & Management, and minor is S.W.  
@@ -23,7 +23,10 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 
 
 
-## ☎️ Contact ☎️
+<h3 align="center"> ☎️ Contact ☎️ </h3>    
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
+
 <p align="center">
   <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/j2gurri@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>  
@@ -34,7 +37,10 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 &nbsp;
 
 
-##  ⚔️ Technical Skills ⚔️ 
+<h3 align="center">  ⚔️ Technical Skills ⚔️ </h3>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 #### Languages & Development Tools
 <p align="center">
     Techs that I've used at least once </p>
@@ -62,7 +68,10 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 &nbsp;
 
 
-## 💡 Career 💡
+<h3 align="center"> 💡 Career 💡 </h3>  
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: |
@@ -91,7 +100,10 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 &nbsp;
 
 
-## 📕 Study 📕 
+<h3 align="center"> 📕 Study 📕  </h3>  
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 | 스터디 내용 | 기간 | 비고 | 링크 |
 | :------: | :---: | :---: | :---: |
 |파이썬 스터디|22.01~22.02|파이썬 기초|[LINK](https://j2rooong.tistory.com/category/%EC%96%B8%EC%96%B4/Python%20%EA%B8%B0%EC%B4%88)|
@@ -110,7 +122,10 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 &nbsp;
 &nbsp;
 
-## 👩‍🏫 Projects 👩‍🏫
+<h3 align="center"> 👩‍🏫 Projects 👩‍🏫 </h3>  
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 |주관|대회(프로젝트)명|분야|기간|비고|
 |:--:|:-----:|:---:|:-----------:|:--:|
 |[전공] 회귀분석|2019 국민건강영양조사 데이터를 활용한 행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로|회귀분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Regression-analysis)|
@@ -128,7 +143,10 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 &nbsp;
 
 
-## 🥇 Competition 🥇 
+<h3 align="center"> 🥇 Competition 🥇 </h3>   
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 |주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|기간|링크|
 |:------:|:---:|:---:|:---:|:----:|:---:|:---:|
 |[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상|2021.06~2021.08|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
@@ -141,13 +159,19 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 &nbsp;
 
 <!--
-### 📚 Paper review 📚
+<h3 align="center"> 📚 Paper review 📚 </h3>  
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 | 분야 | 비고 | 링크 |
 | :------: |  :---: | :---: |
 |Deep Learning|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)| -->
 
 
-## 🪪 Certificate 🪪 
+<h3 align="center"> 🪪 Certificate 🪪  </h3>   
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
+
 |취득 연도|자격증|주관|유효기간|
 |-|-|-|-|
 |2023|ADsP|한국데이터산업진흥원|영구|
@@ -155,14 +179,19 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 &nbsp;
 &nbsp;
 
+<h3 align="center"> 👩‍💻 Algorithm Stats 👩‍💻 </h3>   
 
-## 👩‍💻 Algorithm Stats 👩‍💻
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})
 
 &nbsp;
 
-## (●'◡'●) J2's Git TMI (●'◡'●)
+<h3 align="center"> (●'◡'●) J2's Git TMI (●'◡'●) </h3>   
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
+
 </div>
 </details>
 <br><br>
