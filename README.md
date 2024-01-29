@@ -162,24 +162,24 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 
 &nbsp;
 
-
+## J2's Git
 </div>
 </details>
 <br><br>
 <div align="center">
 <!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=donut&show_icons=true&theme=transparent" width=34% />    
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=donut&show_icons=true&theme=transparent" width=34% /> -->
 <!-- <img src = 'https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=transparent' width=56% /> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ji-eun-Kim&theme=transparent" alt="GitHub Streak" width=56%/></a>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=0019F4&title_color=0019F4&line=0019F4&point=0019F4&area_color=0019F4" width=94%/>   
-<br><br>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false" width=15% />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ji-eun-Kim&theme=transparent" alt="GitHub Streak" width=56%/></a>  
+<!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=0019F4&title_color=0019F4&line=0019F4&point=0019F4&area_color=0019F4" width=94%/>   
+<br><br> -->
 
     
 ![](./profile-3d-contrib/profile-season-animate.svg)   
 
 
 <!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 
 
 <img src="https://github.com/Ji-eun-Kim/Ji-eun-Kim/blob/output/github-contribution-grid-snake.svg"> 
