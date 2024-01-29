@@ -162,7 +162,7 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 
 &nbsp;
 
-## J2's Git
+## (●'◡'●) J2's Git TMI (●'◡'●)
 </div>
 </details>
 <br><br>
