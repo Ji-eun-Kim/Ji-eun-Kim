@@ -184,6 +184,8 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
 
+&nbsp;
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})
 
@@ -207,12 +209,14 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 
 ![](./profile-3d-contrib/profile-gitblock.svg)   
 
+&nbsp;
+
 <!-- Hit counter -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 
+&nbsp;
 
 <img src="https://github.com/Ji-eun-Kim/Ji-eun-Kim/blob/output/github-contribution-grid-snake.svg"> 
-
 
 <br><br><br><br>
 <!-- Footer banner -->
