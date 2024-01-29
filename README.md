@@ -13,8 +13,9 @@
 
 ### Hi there 🖐️ 
 
-I'm Jieun Kim, dreaming of becoming an **ML Research Engineer, AI Engineer**.     
-I am going to graduate from Kookmin University in 2025 with a major in AI Big Data & Management, and minor is S.W.  
+I'm Jieun Kim, dreaming of becoming an **AI Engineer, AI Researcher**.  
+Especially interested in **Computer Vision Task**.  
+And, I am going to graduate from Kookmin University in 2025 with a major in AI Big Data & Management, and minor is S.W.  
 
 
 &nbsp;
