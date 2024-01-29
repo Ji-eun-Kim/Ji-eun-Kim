@@ -23,10 +23,9 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 
 
 
-<h3 align="center"> ☎️ Contact ☎️ </h3>    
+<h3 align="center"> ☎️ Contact ☎️ </h3>      
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Lines" width="50%">  
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
 
 <p align="center">
   <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
@@ -38,7 +37,7 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 &nbsp;
 
 
-<h3 align="center">  ⚔️ Technical Skills ⚔️ </h3>
+<h3 align="center">  ⚔️ Technical Skills ⚔️ </h3>  
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
