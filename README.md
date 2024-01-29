@@ -128,16 +128,17 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 
 |주관|대회(프로젝트)명|분야|기간|비고|
 |:--:|:-----:|:---:|:-----------:|:--:|
-|[전공] 회귀분석|2019 국민건강영양조사 데이터를 활용한 행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로|회귀분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Regression-analysis)|
+|[전공] 회귀분석|행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로|회귀분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Analysis-of-the-determinants-of-happiness.git)|
 |[전공] 공간빅데이터분석|홍대 및 연남 상권 생존 맛집 분석|QGIS|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis)|
 |[전공] 머신러닝|인사 정보 데이터 기반 연봉 예측 모델링 대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/ML-competition-in-kaggle)|
 |[빅데이터분석학회] D&A|신용카드 사용자 연체 예측 AI 경진대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/DnA-ML-competition)|
-|[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로 |NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
-|[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Toy_project)|
+|[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로|NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
+|[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git)|
 |[빅데이터분석학회] D&A|사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction|CV|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/3D_Customized_Shoes)|
-|[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/VisionAI_project)|
+|[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection)|
 |[교내] 학부연구생|[가제] 3D Human Model과 Tracking을 활용한 골프 자세 및 스윙 유사도 측정|CV|2023.08~ |-|
-<!-- |[전공] 딥러닝|Real-Time Object Detection을 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Deep-Learning-project)|-->
+
+<!-- |[전공] 딥러닝|Real-Time Object Detection을 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Development-of-Marine-Deposition-Waste-Collection-Model-Using-Real-Time-Object-Detection.git)|-->
 <!-- |[전공] 빅데이터처리와시각화|따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안|데이터 분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization)|-->
 <!-- |[빅데이터분석학회] D&A|서울특별시 자치구별 학구열 분석 및 인사이트 도출|데이터 분석 및 시각화|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/DnA-Visualization-competition)|-->
 &nbsp;
@@ -150,10 +151,10 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 |주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|기간|링크|
 |:------:|:---:|:---:|:---:|:----:|:---:|:---:|
 |[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상|2021.06~2021.08|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
-|[SDC-통계데이터센터]|저출산 문제 원인분석 및 입체적 해결방안 제언|데이터 분석|-|-|2022.07~2022.08|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
-|[(사)한국빅데이터학회/후원: CJ제일제당]|CJ THE MARKET 고객 예측 알고리즘 모델링|ML(분류)|입선|-|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
-|[DACON]|데이크루 6기|ML(회귀)|우수상 <br> (2위)|-|2023.08|[LINK](https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md)|  
-|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|[2023 빅콘테스트] 클래식 공연 활성화를 위한 예술의 전당 콘서트홀의 효과적 가격 모델 수립|ML(회귀)|최우수상 <br> (2위)|예술의전당사장상|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/2023_BigContest)|
+|[통계청/한국통계진흥원]|2022년 통계데이터 분석·활용대회|데이터 분석|-|-|2022.07~2022.08|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
+|[(사)한국빅데이터학회/후원: CJ제일제당]|2023 BDA 데이터 분석·활용 공모전|ML(분류)|입선|-|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
+|[DACON]|데이크루 6기|ML(회귀)|우수상 <br> (2위)|-|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md)|  
+|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드리그|ML(회귀)|최우수상 <br> (2위)|예술의전당사장상|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/2023_BigContest)|
 
 &nbsp;
 &nbsp;
