@@ -11,7 +11,7 @@
 </div>
 <div align="center">
 
-#### Hi there 🖐️ 
+### Hi there 🖐️ 
 
 I'm Jieun Kim, dreaming of becoming an **ML Research Engineer, AI Engineer**.     
 I am going to graduate from Kookmin University in 2025 with a major in AI Big Data & Management, and minor is S.W.  
