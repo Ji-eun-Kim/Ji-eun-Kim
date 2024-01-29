@@ -147,7 +147,7 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 |Deep Learning|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)| -->
 
 
-### 🪪 Certificate 🪪 
+## 🪪 Certificate 🪪 
 |취득 연도|자격증|주관|유효기간|
 |-|-|-|-|
 |2023|ADsP|한국데이터산업진흥원|영구|
@@ -164,24 +164,28 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 
 
 </div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ji-eun-Kim&theme=transparent" alt="GitHub Streak" width=94%/></a>
 </details>
 <br><br>
 <div align="center">
 <!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=donut&show_icons=true&theme=transparent" width=38% />    
-<img src = 'https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=transparent' width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=0019F4&title_color=0019F4&line=0019F4&point=0019F4&area_color=0019F4" width=94%/>
-    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-eun-Kim&layout=donut&show_icons=true&theme=transparent" width=34% />    
+<!-- <img src = 'https://github-readme-stats.vercel.app/api?username=Ji-eun-Kim&show_icons=true&theme=transparent' width=56% /> -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ji-eun-Kim&theme=transparent" alt="GitHub Streak" width=56%/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=0019F4&title_color=0019F4&line=0019F4&point=0019F4&area_color=0019F4" width=94%/>   
 <br><br>
+
+    
+![](./profile-3d-contrib/profile-season-animate.svg)   
+
+
 <!-- Hit counter -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+
+
+<img src="https://github.com/Ji-eun-Kim/Ji-eun-Kim/blob/output/github-contribution-grid-snake.svg"> 
+
+
 <br><br><br><br>
-
-<img src="https://github.com/Ji-eun-Kim/Ji-eun-Kim/blob/output/github-contribution-grid-snake.svg"/>
-
-
-
 <!-- Footer banner -->
 <img src = 'https://capsule-render.vercel.app/api?type=waving&height=150&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=50' width='100%'/>
 </div>
