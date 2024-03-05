@@ -102,6 +102,8 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 | 2023.08 ~ 2024.01 | 인공지능 및 빅데이터 분석 커뮤니티 Kaggle Korea Study | 2023 하반기 선발 | - |
 | 2023.12 ~ |  인공지능학회 제5대 X:AI | 학회장 | - |
 | 2024.01 ~ | 인공지능 및 빅데이터 대표 연합 동아리 TOBIG's | 21기 선발 | - |
+| 2024.03 ~ | (주)위드마인드 | AI/데이터 Developer | 인턴 |
+
 
 &nbsp;
 
