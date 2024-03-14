@@ -112,7 +112,7 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-| 스터디 내용 | 기간 | 비고 | 링크 |
+| 공부 내용 | 기간 | 비고 | 링크 |
 | :------: | :---: | :---: | :---: |
 |파이썬 스터디|22.01~22.02|파이썬 기초|[LINK](https://j2rooong.tistory.com/category/%EC%96%B8%EC%96%B4/Python%20%EA%B8%B0%EC%B4%88)|
 |D&A Basic Session|22.03~22.06|데이터 분석|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/Basic-Session(%EA%B3%BC%EC%A0%9C%EC%A0%9C%EC%B6%9C))|
@@ -127,6 +127,10 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 |D&A ML Session|23.09~23.12|머신러닝 <br> (학회운영진-멘토)|[LINK](https://github.com/Ji-eun-Kim/DnA-session/tree/main/ML-session(mento))|
 |DL Model Architecture 구현|24.01~|Pytorch Deep Learning 코드 구현| [LINK](https://github.com/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study) |
 |TOBIG's DL Study|24.01~24.03|심층 학습 이론서 스터디 및 발표| [LINK](-) |
+|LLM의 모든 것|24.03~|LangChain/RAG| [LINK](-) |
+|환경 구축|24.03~|Linux/Docker| [LINK](-) |
+
+
 
 &nbsp;
 &nbsp;
@@ -148,7 +152,9 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git)|
 |[빅데이터분석학회] D&A|사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction|CV|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/3D_Customized_Shoes)|
 |[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection)|
-|[교내] 학부연구생|[가제] 3D Human Model과 Tracking을 활용한 골프 자세 및 스윙 유사도 측정|CV|2023.08~ |-|
+|[교내] 학부연구생|[가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Human 3D pose estimation|CV|2023.08~ |-|
+|-|-|-|-|-|
+
 
 
 
