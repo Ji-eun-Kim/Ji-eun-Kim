@@ -83,7 +83,7 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 
 | 활동기간 | 직장명 | 부서명 | 비고 |
 | :------: | :------: | :------: | :------: |
-| 2024.03 ~ | (주)위드마인드 | AI/Data Developer | 인턴 |
+| 2024.03 ~ | (주)위드마인드 | AI/Data 개발팀 | 인턴 |
 
 &nbsp;
 
