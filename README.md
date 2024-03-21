@@ -205,7 +205,7 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
 
-|취득 연도|자격증|주관|유효기간|
+|취득 연도|자격증|관할기관|유효기간|
 |-|-|-|-|
 |2023|ADsP|한국데이터산업진흥원|영구|
 
