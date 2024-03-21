@@ -48,28 +48,42 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-EE4C0C?style=flat-square&logo=Pytorch&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>&nbsp  
   <br>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Linux-DA3B8A?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Ubuntu-E95427?style=flat-square&logo=Ubuntu&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jupyter Lab-FF9E0F?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Linux-DA3B8A?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyCharm-000083?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=ruby%20on%20rails&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp
 
 </p>
+
+&nbsp;
+
+<h3 align="center"> 💼 Work 💼 </h3>  
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+| 활동기간 | 직장명 | 부서명 | 비고 |
+| :------: | :------: | :------: | :------: |
+| 2024.03 ~ | (주)위드마인드 | AI/Data Developer | 인턴 |
 
 &nbsp;
 
@@ -102,8 +116,62 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 | 2023.08 ~ 2024.01 | 인공지능 및 빅데이터 분석 커뮤니티 Kaggle Korea Study | 2023 하반기 선발 | - |
 | 2023.12 ~ |  인공지능학회 제5대 X:AI | 학회장 | - |
 | 2024.01 ~ | 인공지능 및 빅데이터 대표 연합 동아리 TOBIG's | 21기 선발 | - |
-| 2024.03 ~ | (주)위드마인드 | AI/Data Developer | 인턴 |
 
+&nbsp;
+
+<h3 align="center"> 📚 Paper review 📚 </h3>  
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+| 분야 | 비고 | 링크 |
+| :------: |  :---: | :---: |
+|Deep Learning|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)|
+
+&nbsp;
+
+<h3 align="center"> 👩‍🏫 Deep Learning Projects 👩‍🏫 </h3>  
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+|주관|대회(프로젝트)명|분야|기간|비고|
+|:--:|:-----:|:---:|:-----------:|:--:|
+|[전공] 딥러닝|Real-Time Object Detection을 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Development-of-Marine-Deposition-Waste-Collection-Model-Using-Real-Time-Object-Detection.git)|
+|[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로|NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
+|[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git)|
+|[빅데이터분석학회] D&A|사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction|CV|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/3D_Customized_Shoes)|
+|[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection)|
+|[교내] 학부연구생|[가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Human 3D pose estimation|CV|2023.08~ |-|
+|-|-|-|-|-|
+
+&nbsp;
+
+<h3 align="center"> 👩‍🏫 Analysis & ML Projects 👩‍🏫 </h3>  
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+|주관|대회(프로젝트)명|분야|기간|비고|
+|:--:|:-----:|:---:|:-----------:|:--:|
+|[전공] 빅데이터처리와시각화|따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안|데이터 분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization)|
+|[빅데이터분석학회] D&A|서울특별시 자치구별 학구열 분석 및 인사이트 도출|데이터 분석 및 시각화|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/DnA-Visualization-competition)|
+|[전공] 회귀분석|행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로|회귀분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Analysis-of-the-determinants-of-happiness.git)|
+|[전공] 공간빅데이터분석|홍대 및 연남 상권 생존 맛집 분석|QGIS|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis)|
+|[전공] 머신러닝|인사 정보 데이터 기반 연봉 예측 모델링 대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/ML-competition-in-kaggle)|
+|[빅데이터분석학회] D&A|신용카드 사용자 연체 예측 AI 경진대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/DnA-ML-competition)|
+
+&nbsp;
+
+
+<h3 align="center"> 🥇 Competition 🥇 </h3>   
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+|주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|기간|링크|
+|:------:|:---:|:---:|:---:|:----:|:---:|:---:|
+|[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상|2021.06~2021.08|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
+|[통계청/한국통계진흥원]|2022년 통계데이터 분석·활용대회|데이터 분석|-|-|2022.07~2022.08|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
+|[(사)한국빅데이터학회/후원: CJ제일제당]|2023 BDA 데이터 분석·활용 공모전|ML(분류)|입선|-|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
+|[DACON]|데이크루 6기|ML(회귀)|우수상 <br> (2위)|-|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md)|  
+|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드리그|ML(회귀)|최우수상 <br> (2위)|예술의전당사장상|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/2023_BigContest)|
 
 &nbsp;
 
@@ -130,63 +198,10 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 |LLM의 모든 것|24.03~|LangChain/RAG| [LINK](-) |
 |환경 구축|24.03~|Linux/Docker| [LINK](-) |
 
-
-
-&nbsp;
-&nbsp;
-
-<h3 align="center"> 👩‍🏫 Projects 👩‍🏫 </h3>  
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-|주관|대회(프로젝트)명|분야|기간|비고|
-|:--:|:-----:|:---:|:-----------:|:--:|
-|[전공] 빅데이터처리와시각화|따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안|데이터 분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization)|
-|[빅데이터분석학회] D&A|서울특별시 자치구별 학구열 분석 및 인사이트 도출|데이터 분석 및 시각화|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/DnA-Visualization-competition)|
-|[전공] 회귀분석|행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로|회귀분석|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Analysis-of-the-determinants-of-happiness.git)|
-|[전공] 공간빅데이터분석|홍대 및 연남 상권 생존 맛집 분석|QGIS|2022.05~2022.06|[LINK](https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis)|
-|[전공] 머신러닝|인사 정보 데이터 기반 연봉 예측 모델링 대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/ML-competition-in-kaggle)|
-|[빅데이터분석학회] D&A|신용카드 사용자 연체 예측 AI 경진대회|ML|2022.10~2022.11|[LINK](https://github.com/Ji-eun-Kim/DnA-ML-competition)|
-|[전공] 딥러닝|Real-Time Object Detection을 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Development-of-Marine-Deposition-Waste-Collection-Model-Using-Real-Time-Object-Detection.git)|
-|[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로|NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
-|[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git)|
-|[빅데이터분석학회] D&A|사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction|CV|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/3D_Customized_Shoes)|
-|[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection)|
-|[교내] 학부연구생|[가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Human 3D pose estimation|CV|2023.08~ |-|
-|-|-|-|-|-|
-
-
-
-
 &nbsp;
 
 
-<h3 align="center"> 🥇 Competition 🥇 </h3>   
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-|주최 및 주관|대회(프로젝트)명|분야|순위(기타)|비고|기간|링크|
-|:------:|:---:|:---:|:---:|:----:|:---:|:---:|
-|[(주)피플앤커리어그룹/경력개발지원단]|저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기	|직무 로드맵 팀 공모전|대상 <br> (1위)|총장상|2021.06~2021.08|[LINK](https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4)|
-|[통계청/한국통계진흥원]|2022년 통계데이터 분석·활용대회|데이터 분석|-|-|2022.07~2022.08|[LINK](https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition)|
-|[(사)한국빅데이터학회/후원: CJ제일제당]|2023 BDA 데이터 분석·활용 공모전|ML(분류)|입선|-|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition)|
-|[DACON]|데이크루 6기|ML(회귀)|우수상 <br> (2위)|-|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md)|  
-|[과학기술정보통신부/NIA 한국지능정보사회진흥원]|제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드리그|ML(회귀)|최우수상 <br> (2위)|예술의전당사장상|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/2023_BigContest)|
-
-&nbsp;
-&nbsp;
-
-<!--
-<h3 align="center"> 📚 Paper review 📚 </h3>  
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-| 분야 | 비고 | 링크 |
-| :------: |  :---: | :---: |
-|Deep Learning|논문 리뷰|[LINK](https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4)| -->
-
-
-<h3 align="center"> 🪪 Certificate 🪪  </h3>   
+<h3 align="center"> 🪪 License 🪪  </h3>   
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
 
@@ -194,7 +209,6 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 |-|-|-|-|
 |2023|ADsP|한국데이터산업진흥원|영구|
 
-&nbsp;
 &nbsp;
 
 <h3 align="center"> 👩‍💻 Algorithm Stats 👩‍💻 </h3>   
