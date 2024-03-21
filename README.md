@@ -135,12 +135,12 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 
 |주관|대회(프로젝트)명|분야|기간|비고|
 |:--:|:-----:|:---:|:-----------:|:--:|
-|[전공] 딥러닝|Real-Time Object Detection을 활용한 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Development-of-Marine-Deposition-Waste-Collection-Model-Using-Real-Time-Object-Detection.git)|
+|[전공] 딥러닝|Real-Time 해양침적폐기물 수거 모델 개발|CV|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Development-of-Marine-Deposition-Waste-Collection-Model-Using-Real-Time-Object-Detection.git)|
 |[전공] 텍스트데이터분석|Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 - 정치, 기술, 경제, 환경을 중심으로|NLP|2023.05~2023.06|[LINK](https://github.com/Ji-eun-Kim/Text-Data-Analytics)|
 |[인공지능 학회] X:AI|이미지 내 문구 번역 및 원본 스타일 적용|Multi-Modal|2023.07~2023.08|[LINK](https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git)|
 |[빅데이터분석학회] D&A|사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction|CV|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/3D_Customized_Shoes)|
-|[전공] 비전AI와비지니스| Object Detection을 활용한 자동차 운전자 이상행동탐지 |CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection)|
-|[교내] 학부연구생|[가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Human 3D pose estimation|CV|2023.08~ |-|
+|[전공] 비전AI와비지니스|Object Detection을 활용한 자동차 운전자 이상행동탐지|CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection)|
+|[교내] 학부연구생|[가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Time series & 3D Pose estimation|CV|2023.08~ |-|
 |-|-|-|-|-|
 
 &nbsp;
