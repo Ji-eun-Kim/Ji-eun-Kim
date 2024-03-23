@@ -141,7 +141,9 @@ And, I am going to graduate from Kookmin University in 2025 with a major in AI B
 |[빅데이터분석학회] D&A|사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction|CV|2023.08~2023.11|[LINK](https://github.com/Ji-eun-Kim/3D_Customized_Shoes)|
 |[전공] 비전AI와비지니스|Object Detection을 활용한 자동차 운전자 이상행동탐지|CV|2023.11~2023.12|[LINK](https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection)|
 |[교내] 학부연구생|[가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Time series & 3D Pose estimation|CV|2023.08~ |-|
-|-|-|-|-|-|
+|(주)위드마인드|-|LLM|2024.03~|-|
+|(주)위드마인드|-|Multi-Modal|2024.03~|-|
+
 
 &nbsp;
 
