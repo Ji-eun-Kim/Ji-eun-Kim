@@ -212,6 +212,9 @@ I am going to graduate from Kookmin University in 2025 with a major in AI Big Da
 
 |취득 연도|자격증|관할기관|유효기간|
 |-|-|-|-|
+|2024|운전면허2종보통|경찰청|영구|
+|2024|빅데이터분석기사|한국데이터산업진흥원|영구|
+|2024|SQLD|한국데이터산업진흥원|영구|
 |2023|ADsP|한국데이터산업진흥원|영구|
 
 &nbsp;
