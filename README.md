@@ -58,32 +58,6 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 </details>
 
 <details>
-  <summary><b> 💡 Activities </b></summary>
-  <div markdown="2">
-      <li> 인공지능학회 제5대 'X:AI' 학회장 | 2024
-      <li> 인공지능 및 빅데이터 대표 연합 동아리 'TOBIG's' 21기 선발 | 2024
-      <li> 국민대학교 학부연구생 | 2024
-      <li> 인공지능 및 빅데이터 분석 커뮤니티 'Kaggle Korea Study' 선발 | 2023
-      <li> 빅데이터분석학회 제10대 'D&A' 학회운영진 | 2022 
-      <li> 인공지능학회 제4대 'X:AI' 학회원 | 2023 
-      <li> AI빅데이터융합경영학과 교수지원실 | 2023  
-      <li> DACON DACrew 6기 | 2023  
-      <li> LG Aimers 3기 | 2022
-      <li> AI빅데이터융합경영학과 제1대 비상대책위원회 복지부장 | 2022  
-      <li> 빅데이터분석학회 제9대 'D&A' 학회원 | 2022
-      <li> 밴드 소모임 '인지밴드' 1기 설립자 | 2022 
-      <li> AI빅데이터융합경영학과 학생회 제1대 'AI:M' 부학생회장 | 2021 
-      <li> 빅데이터경영통계전공 '감사위원회' 감사위원장 | 2021  
-      <li> 예비 직무 전문가 양성 과정 'Junior CoREP' 7기 선발 | 2021 
-      <li> 중앙동아리 밴드 아우성 | 2021  
-      <li> 축구 소모임 'BAS' 매니저 | 2021 
-      <li> 빅데이터경영통계전공 학생회 제8대 'CODE' 총무부원 | 2021
-
-
-  </div>
-</details>
-
-<details>
   <summary><b> 👩‍🏫 Projects </b></summary>
   <div markdown="2">
       <li> <a href=""> <b>AI 면접 서비스 사용자 답변 평가를 위한 RAG & LLM 개발</b>| (주)위드마인드 | 2024.03-   
@@ -107,12 +81,39 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <details>
   <summary><b> 🥇 Awards </b></summary>
   <div markdown="2">
-      <li> <a href="https://github.com/Ji-eun-Kim/2023_BigContest">과학기술정보통신부 주관 제11회 빅콘테스트 정형데이터분석분야 어드밴스드리그 최우수상 | 과학기술정보통신부/NIA 한국지능정보사회진흥원,2023 </a>  
+      <li> <a href="https://github.com/Ji-eun-Kim/2023_BigContest">제11회 빅콘테스트 정형데이터분석분야 어드밴스드리그 최우수상 | 과학기술정보통신부/NIA 한국지능정보사회진흥원,2023 </a>  
       <li> <a href="https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md)"> 데이크루 6기 우수상 | DACON | 2023 </a>  
       <li> <a href="https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition">2023 BDA 데이터 분석·활용 공모전 | (사)한국빅데이터학회/후원: CJ제일제당,2023 </a>    
       <li> <a href="https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition">2022 통계데이터 분석·활용대회 | 통계청/한국통계진흥원,2022 </a>  
       <li> <a href='https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4'> 저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기 대상 및 총장상 | (주)피플앤커리어그룹/경력개발지원단,2021 </a>   
  </div>
+</details>
+
+
+<details>
+  <summary><b> 💡 Activities </b></summary>
+  <div markdown="2">
+      <li> 인공지능학회 제5대 'X:AI' 학회장 | 2024
+      <li> 인공지능 및 빅데이터 대표 연합 동아리 'TOBIG's' 21기 선발 | 2024
+      <li> 국민대학교 학부연구생 | 2024
+      <li> 인공지능 및 빅데이터 분석 커뮤니티 'Kaggle Korea Study' 선발 | 2023
+      <li> 빅데이터분석학회 제10대 'D&A' 학회운영진 | 2022 
+      <li> 인공지능학회 제4대 'X:AI' 학회원 | 2023 
+      <li> AI빅데이터융합경영학과 교수지원실 | 2023  
+      <li> DACON DACrew 6기 | 2023  
+      <li> LG Aimers 3기 | 2022
+      <li> AI빅데이터융합경영학과 제1대 비상대책위원회 복지부장 | 2022  
+      <li> 빅데이터분석학회 제9대 'D&A' 학회원 | 2022
+      <li> 밴드 소모임 '인지밴드' 1기 설립자 | 2022 
+      <li> AI빅데이터융합경영학과 학생회 제1대 'AI:M' 부학생회장 | 2021 
+      <li> 빅데이터경영통계전공 '감사위원회' 감사위원장 | 2021  
+      <li> 예비 직무 전문가 양성 과정 'Junior CoREP' 7기 선발 | 2021 
+      <li> 중앙동아리 밴드 아우성 | 2021  
+      <li> 축구 소모임 'BAS' 매니저 | 2021 
+      <li> 빅데이터경영통계전공 학생회 제8대 'CODE' 총무부원 | 2021
+
+
+  </div>
 </details>
 
 <details>
