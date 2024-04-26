@@ -60,19 +60,19 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <details>
   <summary><b> 👩‍🏫 Projects </b></summary>
   <div markdown="2">
-      <li> <a href=""> 2024.03~2024.06 | <b>AI 면접 서비스 사용자 답변 평가를 위한 RAG & LLM 개발</b> | (주)위드마인드   
-      <li> <a href="-"> 2023.08~2024.08 | <b>[가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Time series & 3D Pose estimation</b> | [교내] 학부연구생 
-      <li> <a href= "https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection"> 2023.11~2023.12 | Object Detection을 활용한 자동차 운전자 이상행동탐지 | [전공] 비전AI와비지니스 
-      <li> <a href="https://github.com/Ji-eun-Kim/3D_Customized_Shoes"> 2023.08~2023.11 | 사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction | [빅데이터분석학회] D&A   
-      <li> <a href="https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git"> 2023.07~2023.08 | 이미지 내 문구 번역 및 원본 스타일 적용 | [인공지능 학회] X:AI   
-      <li> <a href="https://github.com/Ji-eun-Kim/Text-Data-Analytics"> 2023.05~2023.06 | Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 | [전공] 텍스트데이터분석   
-      <li> <a href="https://github.com/Ji-eun-Kim/Development-of-Marine-Deposition-Waste-Collection-Model-Using-Real-Time-Object-Detection.git"> 2023.05~2023.06 | Real-Time 해양침적폐기물 수거 모델 개발 | [전공] 딥러닝 
-      <li> <a href="https://github.com/Ji-eun-Kim/DnA-ML-competition"> 2022.10~2022.11 | 신용카드 사용자 연체 예측 AI 경진대회 | [빅데이터분석학회] D&A  
-      <li> <a href="https://github.com/Ji-eun-Kim/ML-competition-in-kaggle"> 2022.10~2022.11 | 인사 정보 데이터 기반 연봉 예측 모델링 대회 | [전공] 머신러닝   
-      <li> <a href="https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis"> 2022.05~2022.06 | QGIS를 활용한 홍대 및 연남 상권 생존 맛집 분석 | [전공] 공간빅데이터분석   
-      <li> <a href="https://github.com/Ji-eun-Kim/Analysis-of-the-determinants-of-happiness.git"> 2022.05~2022.06 | 행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로 | [전공] 회귀분석  
-      <li> <a href="https://github.com/Ji-eun-Kim/DnA-Visualization-competition"> 2022.05~2022.06 | 서울특별시 자치구별 학구열 분석 및 인사이트 도출 | [빅데이터분석학회] D&A 
-      <li> <a href="https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization"> 2022.05~2022.06 | 따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안| [전공] 빅데이터처리와시각화  
+      <li> <a href=""> <b>AI 면접 서비스 사용자 답변 평가를 위한 RAG & LLM 개발</b> | (주)위드마인드, 2024-   
+      <li> <a href="-"> <b>📜[가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Time series & 3D Pose estimation</b> | [교내] 학부연구생, 2024 
+      <li> <a href= "https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection"> Object Detection을 활용한 자동차 운전자 이상행동탐지 | [전공] 비전AI와비지니스, 2023 
+      <li> <a href="https://github.com/Ji-eun-Kim/3D_Customized_Shoes"> 사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction | [빅데이터분석학회] D&A, 2023   
+      <li> <a href="https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git">이미지 내 문구 번역 및 원본 스타일 적용 | [인공지능 학회] X:AI, 2023   
+      <li> <a href="https://github.com/Ji-eun-Kim/Text-Data-Analytics"> Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 | [전공] 텍스트데이터분석, 2023   
+      <li> <a href="https://github.com/Ji-eun-Kim/Development-of-Marine-Deposition-Waste-Collection-Model-Using-Real-Time-Object-Detection.git"> Real-Time 해양침적폐기물 수거 모델 개발 | [전공] 딥러닝, 2023 
+      <li> <a href="https://github.com/Ji-eun-Kim/DnA-ML-competition">신용카드 사용자 연체 예측 AI 경진대회 | [빅데이터분석학회] D&A, 2022  
+      <li> <a href="https://github.com/Ji-eun-Kim/ML-competition-in-kaggle">인사 정보 데이터 기반 연봉 예측 모델링 대회 | [전공] 머신러닝, 2022     
+      <li> <a href="https://github.com/Ji-eun-Kim/Spatial-BigData-Analysis">QGIS를 활용한 홍대 및 연남 상권 생존 맛집 분석 | [전공] 공간빅데이터분석, 2022   
+      <li> <a href="https://github.com/Ji-eun-Kim/Analysis-of-the-determinants-of-happiness.git">행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로 | [전공] 회귀분석, 2022  
+      <li> <a href="https://github.com/Ji-eun-Kim/DnA-Visualization-competition"> 서울특별시 자치구별 학구열 분석 및 인사이트 도출 | [빅데이터분석학회] D&A, 2022 
+      <li> <a href="https://github.com/Ji-eun-Kim/Big-Data-Processing-n-Visualization"> 따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안| [전공] 빅데이터처리와시각화, 2022  
      
  </div>
 </details>
@@ -81,11 +81,14 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <details>
   <summary><b> 🥇 Awards </b></summary>
   <div markdown="2">
-      <li> <a href="https://github.com/Ji-eun-Kim/2023_BigContest">제11회 빅콘테스트 정형데이터분석분야 어드밴스드리그 최우수상 | 과학기술정보통신부/NIA 한국지능정보사회진흥원, 2023 </a>  
-      <li> <a href="https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md)"> 데이크루 6기 우수상 | DACON, 2023 </a>  
-      <li> <a href="https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition">2023 BDA 데이터 분석·활용 공모전 | (사)한국빅데이터학회/후원: CJ제일제당, 2023 </a>    
+      <li> <a href="https://github.com/Ji-eun-Kim/2023_BigContest">🏆제11회 빅콘테스트 정형데이터분석분야 어드밴스드리그 최우수상 | 과학기술정보통신부, 2023 </a>  
+      <li> <a href="https://github.com/Ji-eun-Kim/DACrew_6th/blob/main/README.md)"> 🏆데이크루 6기 우수상 | DACON, 2023 </a>  
+      <li> <a href="https://github.com/Ji-eun-Kim/CJ-themarket-modeling-competition">🏅2023 BDA 데이터 분석·활용 공모전 입선 | (사)한국빅데이터학회/CJ제일제당, 2023 </a>
+       <li> 대구 교통사고 피해 예측 AI 경진대회 | DACON, 2023   
+       <li> HD현대 AI Challenge | DACON, 2023   
+       <li> 2023 전력사용량 예측 AI 경진대회 | DACON, 2023 
       <li> <a href="https://github.com/Ji-eun-Kim/Statistical-Data-Analysis-N-Utilization-Competition">2022 통계데이터 분석·활용대회 | 통계청/한국통계진흥원, 2022 </a>  
-      <li> <a href='https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4'> 저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기 대상 및 총장상 | (주)피플앤커리어그룹/경력개발지원단, 2021 </a>   
+      <li> <a href='https://j2u.notion.site/Junior-CoREP-7-041fadd7004e4eda8ca16fe8d4d94563?pvs=4'>🏆저학년 예비 직무 전문가 양성 과정 Junior CoREP 7기 대상 및 총장상 | (주)피플앤커리어그룹/경력개발지원단, 2021 </a>   
  </div>
 </details>
 
@@ -93,20 +96,20 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <details>
   <summary><b> 💡 Activities </b></summary>
   <div markdown="2">
-      <li> 인공지능학회 제5대 'X:AI' 학회장 | 2024
+      <li> 💪인공지능학회 제5대 'X:AI' 학회장 | 2024
       <li> 인공지능 및 빅데이터 대표 연합 동아리 'TOBIG's' 21기 선발 | 2024
-      <li> 국민대학교 학부연구생 | 2024
+      <li> 💪국민대학교 학부연구생 | 2024
       <li> 인공지능 및 빅데이터 분석 커뮤니티 'Kaggle Korea Study' 선발 | 2023
-      <li> 빅데이터분석학회 제10대 'D&A' 학회운영진 | 2022 
+      <li> 💪빅데이터분석학회 제10대 'D&A' 학회운영진 | 2023 
       <li> 인공지능학회 제4대 'X:AI' 학회원 | 2023 
-      <li> AI빅데이터융합경영학과 교수지원실 | 2023  
+      <li> AI빅데이터융합경영학과 교수지원실 근로장학생 | 2023  
       <li> DACON DACrew 6기 | 2023  
-      <li> LG Aimers 3기 | 2022
-      <li> AI빅데이터융합경영학과 제1대 비상대책위원회 복지부장 | 2022  
+      <li> LG Aimers 3기(LG AI연구 청년AI전문가 교육) | 2022
+      <li> 💪AI빅데이터융합경영학과 제1대 비상대책위원회 복지부장 | 2022  
       <li> 빅데이터분석학회 제9대 'D&A' 학회원 | 2022
-      <li> 밴드 소모임 '인지밴드' 1기 설립자 | 2022 
-      <li> AI빅데이터융합경영학과 학생회 제1대 'AI:M' 부학생회장 | 2021 
-      <li> 빅데이터경영통계전공 '감사위원회' 감사위원장 | 2021  
+      <li> 💪밴드 소모임 '인지밴드' 1기 설립자 | 2022 
+      <li> 💪AI빅데이터융합경영학과 학생회 제1대 'AI:M' 부학생회장 | 2021 
+      <li> 💪빅데이터경영통계전공 '감사위원회' 감사위원장 | 2021  
       <li> 예비 직무 전문가 양성 과정 'Junior CoREP' 7기 선발 | 2021 
       <li> 중앙동아리 밴드 아우성 | 2021  
       <li> 축구 소모임 'BAS' 매니저 | 2021 
