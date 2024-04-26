@@ -50,7 +50,7 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
   <summary><b> 💼 Career </b></summary>
   <div markdown="2">
       <li> <b>(주)위드마인드 AI/Data 개발팀 인턴</b> | 2024.03-
-      <li> 국민대학교 AI빅데이터융합경영학과 주전공| 재학 
+      <li> 국민대학교 AI빅데이터융합경영학과 주전공 | 재학 
       <li> 국민대학교 소프트웨어융합전공 연계·융합전공 | 재학
       <li> 서울 목동 금옥여자고등학교 | 졸업
 
