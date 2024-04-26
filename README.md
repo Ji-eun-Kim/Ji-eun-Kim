@@ -2,13 +2,14 @@
 <!-- Header banner -->
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&height=150&section=header&text=&fontSize=0" width='100%' />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&height=100&section=header&text=&fontSize=0" width='100%' />
 
 </div>
 
 ### Hi I'm Jieun Kim. 🖐️
 dreaming of becoming an **AI Engineer, AI Researcher**.     
-**See my PortFoilo Here!** <a href="https://j2u.notion.site/Ji-Eun-Kim-s-PortFolio-ec798f9786ec480fa52056bf74697140?pvs=4/"><img src="https://img.shields.io/badge/PortFolio-6aa84f?style=flat-square&logo=ghostery&logoColor=white"/></a>   
+**See my PortFoilo Here!** <a href="https://j2u.notion.site/Ji-Eun-Kim-s-PortFolio-ec798f9786ec480fa52056bf74697140?pvs=4/"><img src="https://img.shields.io/badge/PortFolio-6aa84f?style=flat-square&logo=ghostery&logoColor=white"/></a>  
+
 
 #### 😎 Etc.  
 <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
@@ -17,8 +18,6 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 
 
-&nbsp;
-
 #### ⚔️ Languages & Development Tools
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Pytorch-EE4C0C?style=flat-square&logo=Pytorch&logoColor=white"/>
@@ -26,7 +25,8 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=Qgis&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=Qgis&logoColor=white"/></a>
+ <br>
  <img src="https://img.shields.io/badge/Linux-DA3B8A?style=flat-square&logo=linux&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Ubuntu-E95427?style=flat-square&logo=Ubuntu&logoColor=white"/>
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -36,13 +36,11 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/PyCharm-000083?style=flat-square&logo=PyCharm&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
- <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+ <br>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
-
+ 
 </p>
 
 &nbsp;
@@ -128,13 +126,12 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 </details>
 
 
-&nbsp;
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=0019F4&title_color=0019F4&line=0019F4&point=0019F4&area_color=0019F4" width=60%/>  
 
 
-![](./profile-3d-contrib/profile-gitblock.svg)   
+
 
 &nbsp;
 
@@ -142,5 +139,5 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 
 <br><br><br><br>
 <!-- Footer banner -->
-<img src = 'https://capsule-render.vercel.app/api?type=waving&height=150&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=50' width='100%'/>
+<img src = 'https://capsule-render.vercel.app/api?type=waving&height=100&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=50' width='100%'/>
 </div>
