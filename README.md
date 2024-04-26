@@ -127,18 +127,11 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 
 &nbsp;
 
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=0019F4&title_color=0019F4&line=0019F4&point=0019F4&area_color=0019F4" width=50%/>  
 
-
-
-
-&nbsp;
-
 <img src="https://github.com/Ji-eun-Kim/Ji-eun-Kim/blob/output/github-contribution-grid-snake.svg"> 
 
-<br><br><br><br>
 <!-- Footer banner -->
 <img src = 'https://capsule-render.vercel.app/api?type=waving&height=100&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=50' width='100%'/>
 </div>
