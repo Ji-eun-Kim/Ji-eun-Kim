@@ -129,7 +129,7 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=0019F4&title_color=0019F4&line=0019F4&point=0019F4&area_color=0019F4" width=60%/>  
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=0019F4&title_color=0019F4&line=0019F4&point=0019F4&area_color=0019F4" width=50%/>  
 
 
 
