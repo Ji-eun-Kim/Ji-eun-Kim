@@ -7,13 +7,14 @@
 </div>
 
 ### Hi I'm Jieun Kim. 🖐️
-dreaming of becoming an **AI Engineer, AI Researcher**.  
+dreaming of becoming an **AI Engineer, AI Researcher**.     
+**See my PortFoilo Here!** <a href="https://j2u.notion.site/Ji-Eun-Kim-s-PortFolio-ec798f9786ec480fa52056bf74697140?pvs=4/"><img src="https://img.shields.io/badge/PortFolio-6aa84f?style=flat-square&logo=ghostery&logoColor=white"/></a>   
 
-<a href="https://j2u.notion.site/Ji-Eun-Kim-s-PortFolio-ec798f9786ec480fa52056bf74697140?pvs=4/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+#### 😎 Etc.  
 <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
 <a href="https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4"><img src="https://img.shields.io/badge/Deep Learning Paper Review-1eb0b3?style=flat-square&logo=paperswithcode&logoColor=white"/></a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/j2gurri@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 
 
 &nbsp;
