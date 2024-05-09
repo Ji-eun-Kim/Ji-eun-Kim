@@ -2,20 +2,20 @@
 <!-- Header banner -->
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&height=100&section=header&text=&fontSize=0" width='100%' />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:FF2756,60:FF5659,70:FF7559,75:FE9251,100:FEA048&height=110&section=header&text=&fontSize=0" width='100%' />
 
 </div>
 
 ### Hi. I'm Jieun Kim. 🖐️
 dreaming of becoming an **AI Engineer, AI Researcher**.     
-**See my PortFoilo Here!** <a href="https://j2u.notion.site/Ji-Eun-Kim-s-PortFolio-ec798f9786ec480fa52056bf74697140?pvs=4/"><img src="https://img.shields.io/badge/PortFolio-6aa84f?style=flat-square&logo=ghostery&logoColor=white"/></a>  
+**See my PortFoilo Here!** <a href="https://j2u.notion.site/Ji-Eun-Kim-s-PortFolio-ec798f9786ec480fa52056bf74697140?pvs=4/"><img src="https://img.shields.io/badge/PortFolio-FF2756?style=flat-square&logo=ghostery&logoColor=white"/></a>  
 
 
 #### 😎 Etc.  
 <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
 <a href="https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4"><img src="https://img.shields.io/badge/Deep Learning Paper Review-1eb0b3?style=flat-square&logo=paperswithcode&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/j2gurri@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23FF7559&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hello!&edge_flat=false"/>
 
 
 #### ⚔️ Languages & Development Tools
@@ -137,5 +137,5 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <img src="https://github.com/Ji-eun-Kim/Ji-eun-Kim/blob/output/github-contribution-grid-snake.svg"> 
 
 <!-- Footer banner -->
-<img src = 'https://capsule-render.vercel.app/api?type=waving&height=100&color=0:031275,50:0018B5,60:182ec0,75:397F64,100:3F895C&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=50' width='100%'/>
+<img src = 'https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FF2756,60:FF5659,70:FF7559,75:FF5659,100:FEA048&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=50' width='100%'/>
 </div>
