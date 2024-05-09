@@ -15,7 +15,7 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <a href="https://j2rooong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://j2rooong.tistory.com/"/></a>
 <a href="https://j2u.notion.site/Paper-Review-d3d26d9997264a0f989f69bca26fe321?pvs=4"><img src="https://img.shields.io/badge/Deep Learning Paper Review-1eb0b3?style=flat-square&logo=paperswithcode&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/j2gurri@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23FF7559&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hello!&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23FF7559&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hello!&edge_flat=true"/>
 
 
 #### ⚔️ Languages & Development Tools
@@ -132,7 +132,8 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 &nbsp;
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=0019F4&title_color=0019F4&line=0019F4&point=0019F4&area_color=0019F4" width=50%/>  
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikshake1101)](https://solved.ac/{handle})
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=FF2756&title_color=FF2756&line=FF2756&point=FF2756&area_color=FF2756" width=50%/>  
 
 <img src="https://github.com/Ji-eun-Kim/Ji-eun-Kim/blob/output/github-contribution-grid-snake.svg"> 
 
