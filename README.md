@@ -60,9 +60,9 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <details>
   <summary><b> 👩‍🏫 Projects </b></summary>
   <div markdown="2">
+       <li> <a href="http://github.com/Ji-eun-Kim?tab=repositories"> <b>Development of RAG & LLM for AI Interview Service User Answer Evaluation</b> | (주)위드마인드, 2024-   
       <li> <a href='-'> AutoRAG을 활용한 고성능 RAG 파이프라인 자동화를 위한 최적화 기술 개발 | [SK 텔레콤] SKT AI Fellowship 6기, 2024
-      <li> <a href=""> <b>AI 면접 서비스 사용자 답변 평가를 위한 RAG & LLM 개발</b> | (주)위드마인드, 2024-   
-      <li> <a href="-"> <b>📜[가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Time series & 3D Pose estimation</b> | [교내] 학부연구생, 2024 
+      <li> <a href="-"> <b>📜 [가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Time series & 3D Pose estimation</b> | [교내] 학부연구생, 2024 
       <li> <a href= "https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection"> Object Detection을 활용한 자동차 운전자 이상행동탐지 | [전공] 비전AI와비지니스, 2023 
       <li> <a href="https://github.com/Ji-eun-Kim/3D_Customized_Shoes"> 사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction | [빅데이터분석학회] D&A, 2023   
       <li> <a href="https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git">이미지 내 문구 번역 및 원본 스타일 적용 | [인공지능 학회] X:AI, 2023   
@@ -97,20 +97,20 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <details>
   <summary><b> 💡 Activities </b></summary>
   <div markdown="2">
-      <li> 💪인공지능학회 제5대 'X:AI' 학회장 | 2024
-      <li> 인공지능 및 빅데이터 대표 연합 동아리 'TOBIG's' 21기 선발 | 2024
-      <li> 💪국민대학교 학부연구생 | 2024
+      <li> <b>인공지능학회 제5대 'X:AI' 학회장</b> | 2024
+      <li> <b>인공지능 및 빅데이터 대표 연합 동아리 'TOBIG's' 21기 및 운영진(교육부) 선발</b>  | 2024
+      <li> <b>국민대학교 학부연구생</b> | 2024
       <li> 인공지능 및 빅데이터 분석 커뮤니티 'Kaggle Korea Study' 선발 | 2023
-      <li> 💪빅데이터분석학회 제10대 'D&A' 학회운영진 | 2023 
+      <li> <b>빅데이터분석학회 제10대 'D&A' 학회운영진</b> | 2023 
       <li> 인공지능학회 제4대 'X:AI' 학회원 | 2023 
       <li> AI빅데이터융합경영학과 교수지원실 근로장학생 | 2023  
       <li> DACON DACrew 6기 | 2023  
       <li> LG Aimers 3기(LG AI연구 청년AI전문가 교육) | 2022
-      <li> 💪AI빅데이터융합경영학과 제1대 비상대책위원회 복지부장 | 2022  
+      <li> AI빅데이터융합경영학과 제1대 비상대책위원회 복지부장 | 2022  
       <li> 빅데이터분석학회 제9대 'D&A' 학회원 | 2022
-      <li> 💪밴드 소모임 '인지밴드' 1기 설립자 | 2022 
-      <li> 💪AI빅데이터융합경영학과 학생회 제1대 'AI:M' 부학생회장 | 2021 
-      <li> 💪빅데이터경영통계전공 '감사위원회' 감사위원장 | 2021  
+      <li> 밴드 소모임 '인지밴드' 1기 설립자 | 2022 
+      <li> <b>AI빅데이터융합경영학과 학생회 제1대 'AI:M' 부학생회장</b> | 2021 
+      <li> 빅데이터경영통계전공 '감사위원회' 감사위원장 | 2021  
       <li> 예비 직무 전문가 양성 과정 'Junior CoREP' 7기 선발 | 2021 
       <li> 중앙동아리 밴드 아우성 | 2021  
       <li> 축구 소모임 'BAS' 매니저 | 2021 
