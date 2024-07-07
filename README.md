@@ -66,7 +66,7 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
       <li> <a href="-"> <b>📜 [가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Time series & 3D Pose estimation</b> | [교내] 학부연구생, 2024 
       <li> <a href= "https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection"> Object Detection을 활용한 자동차 운전자 이상행동탐지 | [전공] 비전AI와비지니스, 2023 
       <li> <a href="https://github.com/Ji-eun-Kim/3D_Customized_Shoes"> 사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction | [빅데이터분석학회] D&A, 2023   
-      <li> <a href="https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git">이미지 내 문구 번역 및 원본 스타일 적용 | [인공지능 학회] X:AI, 2023   
+      <li> <a href="https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git">이미지 내 문구 번역 및 원본 스타일 적용 | [인공지능학회] X:AI, 2023   
       <li> <a href="https://github.com/Ji-eun-Kim/Text-Data-Analytics"> Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 | [전공] 텍스트데이터분석, 2023   
       <li> <a href="https://github.com/Ji-eun-Kim/Development-of-Marine-Deposition-Waste-Collection-Model-Using-Real-Time-Object-Detection.git"> Real-Time 해양침적폐기물 수거 모델 개발 | [전공] 딥러닝, 2023 
       <li> <a href="https://github.com/Ji-eun-Kim/DnA-ML-competition">신용카드 사용자 연체 예측 AI 경진대회 | [빅데이터분석학회] D&A, 2022  
