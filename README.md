@@ -61,7 +61,7 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <details>
   <summary><b> 👩‍🏫 Projects </b></summary>
   <div markdown="2">
-       <li> <a href="http://github.com/Ji-eun-Kim?tab=repositories"> Development of RAG & LLM for AI Interview Service User Answer Evaluation | (주)위드마인드, 2024-   
+       <li> <a href="https://github.com/Ji-eun-Kim/Retrieval_Augmented_Generation_for_InterviewAI"> Development of RAG & LLM for AI Interview Service User Answer Evaluation | [인턴] (주)위드마인드, 2024    
       <li> <a href='-'> AutoRAG을 활용한 고성능 RAG 파이프라인 자동화를 위한 최적화 기술 개발 | [SK 텔레콤] SKT AI Fellowship 6기, 2024
       <li> <a href="-"> <b>📜 [가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Time series & 3D Pose estimation</b> | [교내] 학부연구생, 2024 
       <li> <a href= "https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection"> Object Detection을 활용한 자동차 운전자 이상행동탐지 | [전공] 비전AI와비지니스, 2023 
