@@ -60,13 +60,14 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 
 <details>
   <summary><b> 👩‍🏫 Projects </b></summary>
-  <div markdown="2">
-       <li> <a href="https://github.com/Ji-eun-Kim/Retrieval_Augmented_Generation_for_InterviewAI"> Development of RAG & LLM for AI Interview Service User Answer Evaluation | [인턴] (주)위드마인드, 2024    
+  <div markdown="2">  
+      <li> <a href="-"> Advanced Video Book Creation: Solving Technical Challenges with Diffusion | [인공지능 대표 연합 동아리] TOBIG'S, 2024    
+      <li> <a href="https://github.com/Ji-eun-Kim/Retrieval_Augmented_Generation_for_InterviewAI"> Development of RAG & LLM for AI Interview Service User Answer Evaluation | [인턴] (주)위드마인드, 2024    
       <li> <a href='-'> AutoRAG을 활용한 고성능 RAG 파이프라인 자동화를 위한 최적화 기술 개발 | [SK 텔레콤] SKT AI Fellowship 6기, 2024
       <li> <a href="-"> <b>📜 [가제] Golf&Tennis : Swing Motion Similarity Analysis Based on Time series & 3D Pose estimation</b> | [교내] 학부연구생, 2024 
       <li> <a href= "https://github.com/Ji-eun-Kim/Driver-anomaly-Detection-System-using-Object-Detection"> Object Detection을 활용한 자동차 운전자 이상행동탐지 | [전공] 비전AI와비지니스, 2023 
       <li> <a href="https://github.com/Ji-eun-Kim/3D_Customized_Shoes"> 사용자 맞춤형 3D 신발 커스텀 제작 : Style Transfer and 3D Reconstruction | [빅데이터분석학회] D&A, 2023   
-      <li> <a href="https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git">이미지 내 문구 번역 및 원본 스타일 적용 | [인공지능학회] X:AI, 2023   
+      <li> <a href="https://github.com/Ji-eun-Kim/Translate-phrases-in-images-and-apply-original-styles.git">이미지 내 문구 번역 및 원본 스타일 적용 | [인공지능준학회] X:AI, 2023   
       <li> <a href="https://github.com/Ji-eun-Kim/Text-Data-Analytics"> Word Cloud와 LDA를 통한 주요 시사 별 특징 파악 | [전공] 텍스트데이터분석, 2023   
       <li> <a href="https://github.com/Ji-eun-Kim/Development-of-Marine-Deposition-Waste-Collection-Model-Using-Real-Time-Object-Detection.git"> Real-Time 해양침적폐기물 수거 모델 개발 | [전공] 딥러닝, 2023 
       <li> <a href="https://github.com/Ji-eun-Kim/DnA-ML-competition">신용카드 사용자 연체 예측 AI 경진대회 | [빅데이터분석학회] D&A, 2022  
