@@ -8,7 +8,6 @@
 
 ### Hi. I'm Jieun Kim. 🖐️
 dreaming of becoming an **AI Engineer, AI Researcher**.     
-**See my PortFoilo Here!** <a href="https://j2u.notion.site/Ji-Eun-Kim-s-PortFolio-ec798f9786ec480fa52056bf74697140?pvs=4/"><img src="https://img.shields.io/badge/PortFolio-FF2756?style=flat-square&logo=ghostery&logoColor=white"/></a>  
 
 
 #### 😎 Etc.  
