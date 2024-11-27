@@ -1,9 +1,7 @@
-
 <!-- Header banner -->
 <div align="center">
- 
+ <!-- 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:FF2756,60:FF5659,70:FF7559,75:FE9251,100:FEA048&height=110&section=header&text=&fontSize=0" width='100%' />
-
 </div>
 
 ### Hi. I'm Jieun Kim. 🖐️
@@ -138,7 +136,10 @@ dreaming of becoming an **AI Engineer, AI Researcher**.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ji-eun-Kim&theme=transparent&bg_color=ffffff&color=FF2756&title_color=FF2756&line=FF2756&point=FF2756&area_color=FF2756" width=50%/>  
 
 <img src="https://github.com/Ji-eun-Kim/Ji-eun-Kim/blob/output/github-contribution-grid-snake.svg"> 
-
 <!-- Footer banner -->
+<!--
+
 <img src = 'https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FF2756,60:FF5659,70:FF7559,75:FF5659,100:FEA048&section=footer&reversal=true&textBg=false&fontColor=0&fontAlign=50' width='100%'/>
+
 </div>
+
